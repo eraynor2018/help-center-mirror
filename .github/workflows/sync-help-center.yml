@@ -2,11 +2,11 @@ name: Sync Help Center
 
 on:
   schedule:
-    - cron: "0 8 * * *"    # daily at 08:00 UTC (~2am Mountain). Cron is always UTC.
-  workflow_dispatch: {}     # adds a "Run workflow" button for manual/first runs
+    - cron: "0 8 * * *"
+  workflow_dispatch: {}
 
 permissions:
-  contents: write           # lets the job commit the refreshed docs back to the repo
+  contents: write
 
 jobs:
   sync:
@@ -27,7 +27,16 @@ jobs:
         env:
           ZENDESK_SUBDOMAIN: sidelineswap
           HELP_CENTER_LOCALE: en-us
-        run: python sync.py
+        run: |
+          python sync.py
+          echo "=== pwd ==="
+          pwd
+          echo "=== top-level files ==="
+          ls -la
+          echo "=== articles file count ==="
+          ls articles 2>/dev/null | wc -l
+          echo "=== git status ==="
+          git status --porcelain | head -n 20
 
       - name: Commit changes if any
         run: |
