@@ -25,7 +25,7 @@ SUBDOMAIN = os.environ.get("ZENDESK_SUBDOMAIN", "sidelineswap")
 LOCALE = os.environ.get("HELP_CENTER_LOCALE", "en-us")
 BASE = f"https://{SUBDOMAIN}.zendesk.com/api/v2/help_center/{LOCALE}"
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.environ.get("GITHUB_WORKSPACE") or os.getcwd()
 ARTICLES_DIR = os.path.join(ROOT, "articles")
 
 
