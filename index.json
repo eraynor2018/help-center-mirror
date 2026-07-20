@@ -1,0 +1,2938 @@
+{
+  "source": "help.sidelineswap.com",
+  "generated_at": "2026-07-20T16:23:04.463368+00:00",
+  "article_count": 233,
+  "articles": [
+    {
+      "id": 360010255880,
+      "title": "\"Elite Seller\" Program",
+      "section": "Other Selling Programs",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2020-07-24T14:47:22Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010255880--Elite-Seller-Program",
+      "file": "articles/360010255880-elite-seller-program.md"
+    },
+    {
+      "id": 360010378999,
+      "title": "$3 Trades",
+      "section": "Trading",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2020-07-22T15:14:12Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010378999--3-Trades",
+      "file": "articles/360010378999-3-trades.md"
+    },
+    {
+      "id": 360010362119,
+      "title": "After Making an Offer",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2020-07-24T15:05:26Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010362119-After-Making-an-Offer",
+      "file": "articles/360010362119-after-making-an-offer.md"
+    },
+    {
+      "id": 5351016248092,
+      "title": "Avoiding Scams & Phishing on SidelineSwap",
+      "section": "General Information",
+      "category": "General Support",
+      "labels": [
+        "payment",
+        "email",
+        "gift",
+        "seller account",
+        "scammer",
+        "fraudulent",
+        "scams",
+        "legit",
+        "fake",
+        "vanilla",
+        "gift card",
+        "activated",
+        "activate",
+        "scam",
+        "fraud",
+        "instant",
+        "instant payment",
+        "receive payment",
+        "activity",
+        "unlimited",
+        "selling activity",
+        "razor gold"
+      ],
+      "updated_at": "2024-12-16T14:25:30Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/5351016248092-Avoiding-Scams-Phishing-on-SidelineSwap",
+      "file": "articles/5351016248092-avoiding-scams-phishing-on-sidelineswap.md"
+    },
+    {
+      "id": 360010303640,
+      "title": "Banned Accounts",
+      "section": "Troubleshooting",
+      "category": "General Support",
+      "labels": [],
+      "updated_at": "2020-07-24T18:04:13Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010303640-Banned-Accounts",
+      "file": "articles/360010303640-banned-accounts.md"
+    },
+    {
+      "id": 18712425633052,
+      "title": "Bat Trade-In Condition Requirements",
+      "section": "General Information",
+      "category": "Online Trade-In Support",
+      "labels": [],
+      "updated_at": "2025-02-26T19:46:40Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/18712425633052-Bat-Trade-In-Condition-Requirements",
+      "file": "articles/18712425633052-bat-trade-in-condition-requirements.md"
+    },
+    {
+      "id": 15376701107228,
+      "title": "Can I return my item?",
+      "section": "Refunds",
+      "category": "Buying",
+      "labels": [
+        "dispute",
+        "return",
+        "72",
+        "refund",
+        "3 days",
+        "hours",
+        "three days",
+        "advertised",
+        "broken"
+      ],
+      "updated_at": "2024-08-12T19:32:31Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/15376701107228-Can-I-return-my-item",
+      "file": "articles/15376701107228-can-i-return-my-item.md"
+    },
+    {
+      "id": 360010361839,
+      "title": "Canadian Bank Cashouts",
+      "section": "Cashing Out",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2020-07-27T18:10:13Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361839-Canadian-Bank-Cashouts",
+      "file": "articles/360010361839-canadian-bank-cashouts.md"
+    },
+    {
+      "id": 360010361879,
+      "title": "Cashout Basics",
+      "section": "Cashing Out",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2020-08-04T19:22:14Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361879-Cashout-Basics",
+      "file": "articles/360010361879-cashout-basics.md"
+    },
+    {
+      "id": 360010256240,
+      "title": "Disputing Payments with your Credit Card Company",
+      "section": "Refunds",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2020-07-24T17:06:54Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010256240-Disputing-Payments-with-your-Credit-Card-Company",
+      "file": "articles/360010256240-disputing-payments-with-your-credit-card-company.md"
+    },
+    {
+      "id": 360018164759,
+      "title": "Do gift cards expire?",
+      "section": "SidelineSwap Gift Cards",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2020-12-09T19:24:56Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360018164759-Do-gift-cards-expire",
+      "file": "articles/360018164759-do-gift-cards-expire.md"
+    },
+    {
+      "id": 9827092755996,
+      "title": "Do I ever need to buy a gift card to sell something on SidelineSwap?",
+      "section": "How to buy and sell on SidelineSwap",
+      "category": "Getting Started",
+      "labels": [
+        "email",
+        "vanilla",
+        "gift card",
+        "activate",
+        "scam",
+        "instant payment",
+        "razor gold"
+      ],
+      "updated_at": "2023-08-01T16:09:49Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/9827092755996-Do-I-ever-need-to-buy-a-gift-card-to-sell-something-on-SidelineSwap",
+      "file": "articles/9827092755996-do-i-ever-need-to-buy-a-gift-card-to-sell-something-on-sidel.md"
+    },
+    {
+      "id": 360018134340,
+      "title": "Do I need an account to purchase a gift card?",
+      "section": "SidelineSwap Gift Cards",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2020-12-09T19:35:30Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360018134340-Do-I-need-an-account-to-purchase-a-gift-card",
+      "file": "articles/360018134340-do-i-need-an-account-to-purchase-a-gift-card.md"
+    },
+    {
+      "id": 4405355896850,
+      "title": "European Union VAT (Sales Tax)",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2021-09-21T11:58:42Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4405355896850-European-Union-VAT-Sales-Tax",
+      "file": "articles/4405355896850-european-union-vat-sales-tax.md"
+    },
+    {
+      "id": 4415660113554,
+      "title": "FedEx & UPS packing services",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2022-01-20T19:45:25Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4415660113554-FedEx-UPS-packing-services",
+      "file": "articles/4415660113554-fedex-ups-packing-services.md"
+    },
+    {
+      "id": 4404087179410,
+      "title": "Giveaway Official Rules",
+      "section": "General Information",
+      "category": "General Support",
+      "labels": [],
+      "updated_at": "2021-08-10T21:08:48Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4404087179410-Giveaway-Official-Rules",
+      "file": "articles/4404087179410-giveaway-official-rules.md"
+    },
+    {
+      "id": 20298605053596,
+      "title": "Hockey Skate Trade-In Requirements",
+      "section": "General Information",
+      "category": "Online Trade-In Support",
+      "labels": [],
+      "updated_at": "2025-05-27T20:57:16Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/20298605053596-Hockey-Skate-Trade-In-Requirements",
+      "file": "articles/20298605053596-hockey-skate-trade-in-requirements.md"
+    },
+    {
+      "id": 360010360959,
+      "title": "How are Sellers Protected on SidelineSwap?",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-15T18:05:39Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010360959-How-are-Sellers-Protected-on-SidelineSwap",
+      "file": "articles/360010360959-how-are-sellers-protected-on-sidelineswap.md"
+    },
+    {
+      "id": 4412956977938,
+      "title": "How Auto Price Drops Work",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-19T20:01:16Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4412956977938-How-Auto-Price-Drops-Work",
+      "file": "articles/4412956977938-how-auto-price-drops-work.md"
+    },
+    {
+      "id": 360010361079,
+      "title": "How Automated Feedback Works",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-19T19:55:38Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361079-How-Automated-Feedback-Works",
+      "file": "articles/360010361079-how-automated-feedback-works.md"
+    },
+    {
+      "id": 4403963941522,
+      "title": "How bundle cancellations work",
+      "section": "Refunds",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2024-07-08T18:04:13Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4403963941522-How-bundle-cancellations-work",
+      "file": "articles/4403963941522-how-bundle-cancellations-work.md"
+    },
+    {
+      "id": 360017788600,
+      "title": "How Bundling on SidelineSwap Works ",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [
+        "bundle",
+        "multiple",
+        "purchase"
+      ],
+      "updated_at": "2023-09-14T15:36:36Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360017788600-How-Bundling-on-SidelineSwap-Works",
+      "file": "articles/360017788600-how-bundling-on-sidelineswap-works.md"
+    },
+    {
+      "id": 4406888153874,
+      "title": "How Can I Block a User? ",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [
+        "block user",
+        "block",
+        "user",
+        "mute"
+      ],
+      "updated_at": "2023-09-15T18:14:17Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4406888153874-How-Can-I-Block-a-User",
+      "file": "articles/4406888153874-how-can-i-block-a-user.md"
+    },
+    {
+      "id": 4405950654492,
+      "title": "How can I cash out to Venmo?",
+      "section": "Cashing Out",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2026-06-26T17:50:37Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4405950654492-How-can-I-cash-out-to-Venmo",
+      "file": "articles/4405950654492-how-can-i-cash-out-to-venmo.md"
+    },
+    {
+      "id": 360017556799,
+      "title": "How can I upgrade to expedited shipping?",
+      "section": "Troubleshooting",
+      "category": "Shipping",
+      "labels": [
+        "expedite",
+        "expedited",
+        "overnight",
+        "shipping",
+        "ship",
+        "2day"
+      ],
+      "updated_at": "2021-05-18T15:32:45Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360017556799-How-can-I-upgrade-to-expedited-shipping",
+      "file": "articles/360017556799-how-can-i-upgrade-to-expedited-shipping.md"
+    },
+    {
+      "id": 15306850375708,
+      "title": "How do I auto-reject lowball offers?",
+      "section": "Sideline Pro",
+      "category": "Selling",
+      "labels": [
+        "offer",
+        "lowball",
+        "auto-reject",
+        "autoreject",
+        "percentage",
+        "reject",
+        "offers",
+        "threshold",
+        "percent"
+      ],
+      "updated_at": "2024-08-07T20:39:45Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/15306850375708-How-do-I-auto-reject-lowball-offers",
+      "file": "articles/15306850375708-how-do-i-auto-reject-lowball-offers.md"
+    },
+    {
+      "id": 15306831896476,
+      "title": "How do I automatically bump my items?",
+      "section": "Sideline Pro",
+      "category": "Selling",
+      "labels": [
+        "bump",
+        "autobump",
+        "auto-bump",
+        "promote",
+        "promoted"
+      ],
+      "updated_at": "2024-08-07T20:37:37Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/15306831896476-How-do-I-automatically-bump-my-items",
+      "file": "articles/15306831896476-how-do-i-automatically-bump-my-items.md"
+    },
+    {
+      "id": 360018134880,
+      "title": "How do I buy a SidelineSwap gift card?",
+      "section": "SidelineSwap Gift Cards",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2021-01-28T13:48:48Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360018134880-How-do-I-buy-a-SidelineSwap-gift-card",
+      "file": "articles/360018134880-how-do-i-buy-a-sidelineswap-gift-card.md"
+    },
+    {
+      "id": 360018791139,
+      "title": "How do I cancel a cashout?",
+      "section": "Cashing Out",
+      "category": "Selling",
+      "labels": [
+        "cashed out",
+        "cashed out to wrong account",
+        "wrong bank account",
+        "need to change cashout",
+        "need to change bank account",
+        "change cashout"
+      ],
+      "updated_at": "2023-08-16T22:01:02Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360018791139-How-do-I-cancel-a-cashout",
+      "file": "articles/360018791139-how-do-i-cancel-a-cashout.md"
+    },
+    {
+      "id": 15306877801116,
+      "title": "How do I export my locker data?",
+      "section": "Sideline Pro",
+      "category": "Selling",
+      "labels": [
+        "report",
+        "item",
+        "export",
+        "locker",
+        "available",
+        "data"
+      ],
+      "updated_at": "2024-08-07T20:40:58Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/15306877801116-How-do-I-export-my-locker-data",
+      "file": "articles/15306877801116-how-do-i-export-my-locker-data.md"
+    },
+    {
+      "id": 360010728979,
+      "title": "How do I get reimbursed for offline shipping?",
+      "section": "Troubleshooting",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2022-07-12T15:58:49Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010728979-How-do-I-get-reimbursed-for-offline-shipping",
+      "file": "articles/360010728979-how-do-i-get-reimbursed-for-offline-shipping.md"
+    },
+    {
+      "id": 360010361179,
+      "title": "How do I re-list (or duplicate) a listing? ",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2021-09-17T13:01:07Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361179-How-do-I-re-list-or-duplicate-a-listing",
+      "file": "articles/360010361179-how-do-i-re-list-or-duplicate-a-listing.md"
+    },
+    {
+      "id": 360018134320,
+      "title": "How do I redeem a gift card?",
+      "section": "SidelineSwap Gift Cards",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2020-12-09T19:41:01Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360018134320-How-do-I-redeem-a-gift-card",
+      "file": "articles/360018134320-how-do-i-redeem-a-gift-card.md"
+    },
+    {
+      "id": 360010361199,
+      "title": "How do I remove an item?",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2021-09-17T19:16:11Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361199-How-do-I-remove-an-item",
+      "file": "articles/360010361199-how-do-i-remove-an-item.md"
+    },
+    {
+      "id": 23419966056348,
+      "title": "How do I Request a Seel Return?",
+      "section": "Refunds",
+      "category": "Buying",
+      "labels": [
+        "return",
+        "refund",
+        "seel",
+        "return assurance"
+      ],
+      "updated_at": "2025-11-06T02:40:57Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/23419966056348-How-do-I-Request-a-Seel-Return",
+      "file": "articles/23419966056348-how-do-i-request-a-seel-return.md"
+    },
+    {
+      "id": 27253809604508,
+      "title": "How do I request tax exemption on my SidelineSwap account?",
+      "section": "Buyer FAQs",
+      "category": "Buying",
+      "labels": [
+        "tax",
+        "sales tax",
+        "exempt",
+        "tax exemption",
+        "certificate",
+        "tax exempt",
+        "exemption"
+      ],
+      "updated_at": "2026-05-05T16:50:18Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/27253809604508-How-do-I-request-tax-exemption-on-my-SidelineSwap-account",
+      "file": "articles/27253809604508-how-do-i-request-tax-exemption-on-my-sidelineswap-account.md"
+    },
+    {
+      "id": 360017807139,
+      "title": "How do I update my credit card/payment method?",
+      "section": "Troubleshooting my account",
+      "category": "Managing My Account",
+      "labels": [
+        "update credit card",
+        "update card",
+        "change card",
+        "how do i change my card"
+      ],
+      "updated_at": "2020-11-30T12:44:03Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360017807139-How-do-I-update-my-credit-card-payment-method",
+      "file": "articles/360017807139-how-do-i-update-my-credit-cardpayment-method.md"
+    },
+    {
+      "id": 360010362019,
+      "title": "How do returns work?",
+      "section": "Buyer FAQs",
+      "category": "Buying",
+      "labels": [
+        "Refund",
+        "Return"
+      ],
+      "updated_at": "2025-11-06T02:56:52Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010362019-How-do-returns-work",
+      "file": "articles/360010362019-how-do-returns-work.md"
+    },
+    {
+      "id": 4410656215314,
+      "title": "How does free and discounted shipping work?",
+      "section": "Shipping FAQs",
+      "category": "Shipping",
+      "labels": [
+        "shipping",
+        "fixed rate",
+        "fixed",
+        "rate",
+        "free",
+        "free shipping",
+        "discounted shipping",
+        "discount",
+        "discounted"
+      ],
+      "updated_at": "2022-05-18T19:03:59Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4410656215314-How-does-free-and-discounted-shipping-work",
+      "file": "articles/4410656215314-how-does-free-and-discounted-shipping-work.md"
+    },
+    {
+      "id": 360010265180,
+      "title": "How is shipping calculated?",
+      "section": "Shipping FAQs",
+      "category": "Shipping",
+      "labels": [
+        "shipping",
+        "rate",
+        "too much",
+        "high",
+        "expensive",
+        "cost"
+      ],
+      "updated_at": "2023-11-10T20:49:46Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010265180-How-is-shipping-calculated",
+      "file": "articles/360010265180-how-is-shipping-calculated.md"
+    },
+    {
+      "id": 360010375119,
+      "title": "How long do I have to ship?",
+      "section": "Shipping Essentials",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2020-10-05T19:55:34Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010375119-How-long-do-I-have-to-ship",
+      "file": "articles/360010375119-how-long-do-i-have-to-ship.md"
+    },
+    {
+      "id": 360010255800,
+      "title": "How long does a cashout take?",
+      "section": "Cashing Out",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2021-09-13T16:17:28Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010255800-How-long-does-a-cashout-take",
+      "file": "articles/360010255800-how-long-does-a-cashout-take.md"
+    },
+    {
+      "id": 360010361959,
+      "title": "How My Offer Notifications Work",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2023-09-19T20:41:39Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361959-How-My-Offer-Notifications-Work",
+      "file": "articles/360010361959-how-my-offer-notifications-work.md"
+    },
+    {
+      "id": 360010361939,
+      "title": "How Placing Another Offer Works",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2023-09-28T15:29:55Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361939-How-Placing-Another-Offer-Works",
+      "file": "articles/360010361939-how-placing-another-offer-works.md"
+    },
+    {
+      "id": 6364297298460,
+      "title": "How Sales Tax in Canada Works ",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2023-09-14T16:12:49Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/6364297298460-How-Sales-Tax-in-Canada-Works",
+      "file": "articles/6364297298460-how-sales-tax-in-canada-works.md"
+    },
+    {
+      "id": 360010269460,
+      "title": "How Sales Tax Works on SidelineSwap",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2023-09-14T15:33:20Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010269460-How-Sales-Tax-Works-on-SidelineSwap",
+      "file": "articles/360010269460-how-sales-tax-works-on-sidelineswap.md"
+    },
+    {
+      "id": 4402828329106,
+      "title": "How SidelineSwap Product Rankings Work",
+      "section": "Buyer FAQs",
+      "category": "Buying",
+      "labels": [
+        "ranking",
+        "product",
+        "product ranking",
+        "gear expert"
+      ],
+      "updated_at": "2025-06-11T16:45:14Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4402828329106-How-SidelineSwap-Product-Rankings-Work",
+      "file": "articles/4402828329106-how-sidelineswap-product-rankings-work.md"
+    },
+    {
+      "id": 360010269640,
+      "title": "How to Access My Drafts",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2023-09-14T14:43:36Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010269640-How-to-Access-My-Drafts",
+      "file": "articles/360010269640-how-to-access-my-drafts.md"
+    },
+    {
+      "id": 360010361299,
+      "title": "How to Add More Photos of an Item",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-14T15:03:34Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361299-How-to-Add-More-Photos-of-an-Item",
+      "file": "articles/360010361299-how-to-add-more-photos-of-an-item.md"
+    },
+    {
+      "id": 360018540660,
+      "title": "How to Appeal Negative Feedback",
+      "section": "Troubleshooting my account",
+      "category": "Managing My Account",
+      "labels": [
+        "negative feedback",
+        "feedback changed",
+        "revised feedback",
+        "negative review"
+      ],
+      "updated_at": "2023-09-19T20:29:59Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360018540660-How-to-Appeal-Negative-Feedback",
+      "file": "articles/360018540660-how-to-appeal-negative-feedback.md"
+    },
+    {
+      "id": 12629387707036,
+      "title": "How to approve a return",
+      "section": "Disputes & Refunds",
+      "category": "Selling",
+      "labels": [
+        "dispute",
+        "return",
+        "label",
+        "dispute resolution team",
+        "allow return",
+        "return shipping",
+        "authorize return"
+      ],
+      "updated_at": "2024-02-14T17:34:41Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/12629387707036-How-to-approve-a-return",
+      "file": "articles/12629387707036-how-to-approve-a-return.md"
+    },
+    {
+      "id": 360010729179,
+      "title": "How to Avoid Delayed Tracking Scans",
+      "section": "Troubleshooting",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-28T15:41:10Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010729179-How-to-Avoid-Delayed-Tracking-Scans",
+      "file": "articles/360010729179-how-to-avoid-delayed-tracking-scans.md"
+    },
+    {
+      "id": 360016976000,
+      "title": "How to Become a SidelineSwap Affiliate and Earn Cash!",
+      "section": "Other Selling Programs",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-19T20:40:43Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360016976000-How-to-Become-a-SidelineSwap-Affiliate-and-Earn-Cash",
+      "file": "articles/360016976000-how-to-become-a-sidelineswap-affiliate-and-earn-cash.md"
+    },
+    {
+      "id": 360010269540,
+      "title": "How to Browse in CAD",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2021-02-07T11:32:36Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010269540-How-to-Browse-in-CAD",
+      "file": "articles/360010269540-how-to-browse-in-cad.md"
+    },
+    {
+      "id": 4428999546780,
+      "title": "How to Bulk Update Listings on iOS",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [
+        "bump",
+        "price drop",
+        "bulk actions",
+        "bulk",
+        "actions",
+        "update",
+        "bulk update",
+        "edit"
+      ],
+      "updated_at": "2023-09-15T18:08:14Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4428999546780-How-to-Bulk-Update-Listings-on-iOS",
+      "file": "articles/4428999546780-how-to-bulk-update-listings-on-ios.md"
+    },
+    {
+      "id": 360010361159,
+      "title": "How to Bundle",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [
+        "ship",
+        "bundle",
+        "multiple",
+        "buyer",
+        "box",
+        "combined",
+        "bundles",
+        "combine",
+        "package",
+        "bundled"
+      ],
+      "updated_at": "2023-02-08T15:27:46Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361159-How-to-Bundle",
+      "file": "articles/360010361159-how-to-bundle.md"
+    },
+    {
+      "id": 360010256100,
+      "title": "How to buy",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [
+        "how do i buy",
+        "how to buy"
+      ],
+      "updated_at": "2023-08-16T21:40:57Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010256100-How-to-buy",
+      "file": "articles/360010256100-how-to-buy.md"
+    },
+    {
+      "id": 5902652862876,
+      "title": "How to buy an auction item",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [
+        "auction",
+        "bid",
+        "offer"
+      ],
+      "updated_at": "2022-09-22T19:52:16Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/5902652862876-How-to-buy-an-auction-item",
+      "file": "articles/5902652862876-how-to-buy-an-auction-item.md"
+    },
+    {
+      "id": 360016895799,
+      "title": "How to Buy and Sell Internationally",
+      "section": "How to buy and sell on SidelineSwap",
+      "category": "Getting Started",
+      "labels": [],
+      "updated_at": "2023-09-19T20:38:26Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360016895799-How-to-Buy-and-Sell-Internationally",
+      "file": "articles/360016895799-how-to-buy-and-sell-internationally.md"
+    },
+    {
+      "id": 360018623600,
+      "title": "How to Buy from the UK as of 2021",
+      "section": "Troubleshooting",
+      "category": "Buying",
+      "labels": [
+        "The UK",
+        "can't buy from the UK",
+        "Great Britain",
+        "England"
+      ],
+      "updated_at": "2023-09-19T20:37:33Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360018623600-How-to-Buy-from-the-UK-as-of-2021",
+      "file": "articles/360018623600-how-to-buy-from-the-uk-as-of-2021.md"
+    },
+    {
+      "id": 360010362099,
+      "title": "How to Buy Multiple Items from One Seller",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2023-09-28T15:28:54Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010362099-How-to-Buy-Multiple-Items-from-One-Seller",
+      "file": "articles/360010362099-how-to-buy-multiple-items-from-one-seller.md"
+    },
+    {
+      "id": 26536597830044,
+      "title": "How to Buy Now, Pay Later with Sezzle on SidelineSwap",
+      "section": "Payment Methods",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2026-05-21T20:02:40Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/26536597830044-How-to-Buy-Now-Pay-Later-with-Sezzle-on-SidelineSwap",
+      "file": "articles/26536597830044-how-to-buy-now-pay-later-with-sezzle-on-sidelineswap.md"
+    },
+    {
+      "id": 360013147939,
+      "title": "How to buy with site credit",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2020-12-09T18:26:19Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360013147939-How-to-buy-with-site-credit",
+      "file": "articles/360013147939-how-to-buy-with-site-credit.md"
+    },
+    {
+      "id": 360010256080,
+      "title": "How to Cancel a Purchase",
+      "section": "Buyer FAQs",
+      "category": "Buying",
+      "labels": [
+        "cancel my purchase",
+        "cancel my order",
+        "seller never shipped"
+      ],
+      "updated_at": "2025-11-06T02:28:13Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010256080-How-to-Cancel-a-Purchase",
+      "file": "articles/360010256080-how-to-cancel-a-purchase.md"
+    },
+    {
+      "id": 360010361759,
+      "title": "How to Cancel a Sale",
+      "section": "Disputes & Refunds",
+      "category": "Selling",
+      "labels": [
+        "this is no longer available",
+        "already sold",
+        "These already sold",
+        "cancel my swap",
+        "refund the buyer",
+        "please cancel"
+      ],
+      "updated_at": "2023-09-14T14:25:59Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361759-How-to-Cancel-a-Sale",
+      "file": "articles/360010361759-how-to-cancel-a-sale.md"
+    },
+    {
+      "id": 360010255240,
+      "title": "How to cash out",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2022-03-02T15:17:21Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010255240-How-to-cash-out",
+      "file": "articles/360010255240-how-to-cash-out.md"
+    },
+    {
+      "id": 360010255620,
+      "title": "How to Change a Shipping Address",
+      "section": "Shipping FAQs",
+      "category": "Shipping",
+      "labels": [
+        "wrong",
+        "wrong address",
+        "new shipping label",
+        "new address",
+        "change address",
+        "shipping label",
+        "address",
+        "new label"
+      ],
+      "updated_at": "2023-09-14T14:25:06Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010255620-How-to-Change-a-Shipping-Address",
+      "file": "articles/360010255620-how-to-change-a-shipping-address.md"
+    },
+    {
+      "id": 360010255780,
+      "title": "How to Change My Bank Information",
+      "section": "Cashing Out",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-28T15:30:39Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010255780-How-to-Change-My-Bank-Information",
+      "file": "articles/360010255780-how-to-change-my-bank-information.md"
+    },
+    {
+      "id": 360010496320,
+      "title": "How to change my email address",
+      "section": "Troubleshooting my account",
+      "category": "Managing My Account",
+      "labels": [
+        "email address",
+        "wrong email",
+        "update email",
+        "old email",
+        "email",
+        "change email",
+        "typo",
+        "domain"
+      ],
+      "updated_at": "2024-08-21T13:28:36Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010496320-How-to-change-my-email-address",
+      "file": "articles/360010496320-how-to-change-my-email-address.md"
+    },
+    {
+      "id": 360010269580,
+      "title": "How to Change My Password",
+      "section": "Troubleshooting my account",
+      "category": "Managing My Account",
+      "labels": [
+        "reset",
+        "password",
+        "change password",
+        "login",
+        "log in"
+      ],
+      "updated_at": "2020-10-28T14:12:55Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010269580-How-to-Change-My-Password",
+      "file": "articles/360010269580-how-to-change-my-password.md"
+    },
+    {
+      "id": 11678369214492,
+      "title": "How to change my phone number",
+      "section": "Troubleshooting my account",
+      "category": "Managing My Account",
+      "labels": [
+        "pin",
+        "update",
+        "number",
+        "change",
+        "code",
+        "phone",
+        "phone number",
+        "text",
+        "verification",
+        "sms"
+      ],
+      "updated_at": "2024-08-21T13:47:08Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/11678369214492-How-to-change-my-phone-number",
+      "file": "articles/11678369214492-how-to-change-my-phone-number.md"
+    },
+    {
+      "id": 4412420211100,
+      "title": "How to change my username",
+      "section": "Troubleshooting my account",
+      "category": "Managing My Account",
+      "labels": [
+        "username",
+        "account",
+        "wrong username",
+        "account name",
+        "user ID",
+        "change username",
+        "change name"
+      ],
+      "updated_at": "2025-09-03T19:59:53Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4412420211100-How-to-change-my-username",
+      "file": "articles/4412420211100-how-to-change-my-username.md"
+    },
+    {
+      "id": 360018985980,
+      "title": "How to close a dispute",
+      "section": "Troubleshooting",
+      "category": "Buying",
+      "labels": [
+        "dispute",
+        "close dispute",
+        "disputed"
+      ],
+      "updated_at": "2021-03-02T19:08:29Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360018985980-How-to-close-a-dispute",
+      "file": "articles/360018985980-how-to-close-a-dispute.md"
+    },
+    {
+      "id": 360010256140,
+      "title": "How to Confirm a Purchase and Leave Feedback",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2023-09-14T14:30:16Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010256140-How-to-Confirm-a-Purchase-and-Leave-Feedback",
+      "file": "articles/360010256140-how-to-confirm-a-purchase-and-leave-feedback.md"
+    },
+    {
+      "id": 360011528159,
+      "title": "How to Contact SidelineSwap Support",
+      "section": "General Information",
+      "category": "General Support",
+      "labels": [],
+      "updated_at": "2023-09-28T15:24:28Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360011528159-How-to-Contact-SidelineSwap-Support",
+      "file": "articles/360011528159-how-to-contact-sidelineswap-support.md"
+    },
+    {
+      "id": 360016454459,
+      "title": "How to Counteroffer",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-14T14:32:14Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360016454459-How-to-Counteroffer",
+      "file": "articles/360016454459-how-to-counteroffer.md"
+    },
+    {
+      "id": 360010361099,
+      "title": "How to Create New Listings",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-19T20:43:57Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361099-How-to-Create-New-Listings",
+      "file": "articles/360010361099-how-to-create-new-listings.md"
+    },
+    {
+      "id": 5274815115036,
+      "title": "How to delete my account",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2025-12-03T14:48:56Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/5274815115036-How-to-delete-my-account",
+      "file": "articles/5274815115036-how-to-delete-my-account.md"
+    },
+    {
+      "id": 360010361359,
+      "title": "How to Disclose Product Deficiencies as a Seller",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-19T20:32:51Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361359-How-to-Disclose-Product-Deficiencies-as-a-Seller",
+      "file": "articles/360010361359-how-to-disclose-product-deficiencies-as-a-seller.md"
+    },
+    {
+      "id": 360013870979,
+      "title": "How to do an in-person swap",
+      "section": "Shipping FAQs",
+      "category": "Shipping",
+      "labels": [
+        "in person",
+        "meet up",
+        "exchange",
+        "near",
+        "local",
+        "locally",
+        "pick up",
+        "personally",
+        "close"
+      ],
+      "updated_at": "2024-01-30T20:58:07Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360013870979-How-to-do-an-in-person-swap",
+      "file": "articles/360013870979-how-to-do-an-in-person-swap.md"
+    },
+    {
+      "id": 360011054480,
+      "title": "How to Edit My Listings",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [
+        "how to edit",
+        "how to edit my item",
+        "how to update my listing",
+        "edit my items"
+      ],
+      "updated_at": "2023-09-15T18:14:58Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360011054480-How-to-Edit-My-Listings",
+      "file": "articles/360011054480-how-to-edit-my-listings.md"
+    },
+    {
+      "id": 4412405811356,
+      "title": "How to export my sales history",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [
+        "csv",
+        "sales report",
+        "earnings",
+        "report",
+        "sales history",
+        "sales",
+        "history"
+      ],
+      "updated_at": "2022-02-21T17:50:09Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4412405811356-How-to-export-my-sales-history",
+      "file": "articles/4412405811356-how-to-export-my-sales-history.md"
+    },
+    {
+      "id": 9098202157596,
+      "title": "How to File a Claim for an Insured Item",
+      "section": "Shipping FAQs",
+      "category": "Shipping",
+      "labels": [
+        "insure",
+        "insurance",
+        "insured"
+      ],
+      "updated_at": "2026-04-29T17:56:18Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/9098202157596-How-to-File-a-Claim-for-an-Insured-Item",
+      "file": "articles/9098202157596-how-to-file-a-claim-for-an-insured-item.md"
+    },
+    {
+      "id": 360010268960,
+      "title": "How to Find & Purchase Packaging Supplies",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-14T15:17:41Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010268960-How-to-Find-Purchase-Packaging-Supplies",
+      "file": "articles/360010268960-how-to-find-purchase-packaging-supplies.md"
+    },
+    {
+      "id": 360010379259,
+      "title": "How to Find Favorited Items",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2023-09-14T14:50:26Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010379259-How-to-Find-Favorited-Items",
+      "file": "articles/360010379259-how-to-find-favorited-items.md"
+    },
+    {
+      "id": 360010252420,
+      "title": "How to Find My Swap ID",
+      "section": "General Information",
+      "category": "General Support",
+      "labels": [],
+      "updated_at": "2023-09-14T14:33:13Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010252420-How-to-Find-My-Swap-ID",
+      "file": "articles/360010252420-how-to-find-my-swap-id.md"
+    },
+    {
+      "id": 360010362199,
+      "title": "How to Find Your CVV & CVC",
+      "section": "Payment Methods",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2023-09-14T14:29:14Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010362199-How-to-Find-Your-CVV-CVC",
+      "file": "articles/360010362199-how-to-find-your-cvv-cvc.md"
+    },
+    {
+      "id": 360014280000,
+      "title": "How to Find Your Referral Code",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2023-09-14T14:39:46Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360014280000-How-to-Find-Your-Referral-Code",
+      "file": "articles/360014280000-how-to-find-your-referral-code.md"
+    },
+    {
+      "id": 4585648560540,
+      "title": "How to Generate a Scan Sheet",
+      "section": "Shipping FAQs",
+      "category": "Shipping",
+      "labels": [
+        "usps",
+        "print",
+        "bulk",
+        "scan",
+        "sheet",
+        "bulk print",
+        "scan sheet"
+      ],
+      "updated_at": "2022-03-31T19:12:58Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4585648560540-How-to-Generate-a-Scan-Sheet",
+      "file": "articles/4585648560540-how-to-generate-a-scan-sheet.md"
+    },
+    {
+      "id": 360010252460,
+      "title": "How to Handle a Cashout Failure",
+      "section": "Troubleshooting",
+      "category": "General Support",
+      "labels": [],
+      "updated_at": "2023-09-14T14:23:28Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010252460-How-to-Handle-a-Cashout-Failure",
+      "file": "articles/360010252460-how-to-handle-a-cashout-failure.md"
+    },
+    {
+      "id": 360010613700,
+      "title": "How to Handle Stolen/Missing Package Claims",
+      "section": "Troubleshooting",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-28T15:26:23Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010613700-How-to-Handle-Stolen-Missing-Package-Claims",
+      "file": "articles/360010613700-how-to-handle-stolenmissing-package-claims.md"
+    },
+    {
+      "id": 9098057556892,
+      "title": "How to Insure your Items",
+      "section": "Shipping FAQs",
+      "category": "Shipping",
+      "labels": [
+        "insure",
+        "insurance",
+        "insuring",
+        "insured",
+        "claim",
+        "lost"
+      ],
+      "updated_at": "2026-04-29T17:03:30Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/9098057556892-How-to-Insure-your-Items",
+      "file": "articles/9098057556892-how-to-insure-your-items.md"
+    },
+    {
+      "id": 360019889440,
+      "title": "How to issue a partial refund",
+      "section": "Disputes & Refunds",
+      "category": "Selling",
+      "labels": [
+        "refund",
+        "partial",
+        "partial refund"
+      ],
+      "updated_at": "2023-08-16T22:34:23Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360019889440-How-to-issue-a-partial-refund",
+      "file": "articles/360019889440-how-to-issue-a-partial-refund.md"
+    },
+    {
+      "id": 360010361379,
+      "title": "How to locate a missing package",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2020-10-16T15:51:00Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361379-How-to-locate-a-missing-package",
+      "file": "articles/360010361379-how-to-locate-a-missing-package.md"
+    },
+    {
+      "id": 360010256160,
+      "title": "How to Make an Offer",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2023-09-14T14:51:48Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010256160-How-to-Make-an-Offer",
+      "file": "articles/360010256160-how-to-make-an-offer.md"
+    },
+    {
+      "id": 360010252400,
+      "title": "How to Manage My Locker Setup",
+      "section": "Getting started on SidelineSwap",
+      "category": "Getting Started",
+      "labels": [],
+      "updated_at": "2023-09-14T15:30:13Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010252400-How-to-Manage-My-Locker-Setup",
+      "file": "articles/360010252400-how-to-manage-my-locker-setup.md"
+    },
+    {
+      "id": 4406858978322,
+      "title": "How to Manage your Notification Settings on SidelineSwap ",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [
+        "notifications",
+        "unsubscribe",
+        "subscribe"
+      ],
+      "updated_at": "2021-09-17T20:39:08Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4406858978322-How-to-Manage-your-Notification-Settings-on-SidelineSwap",
+      "file": "articles/4406858978322-how-to-manage-your-notification-settings-on-sidelineswap.md"
+    },
+    {
+      "id": 4406872150802,
+      "title": "How to Message a Seller",
+      "section": "Buyer FAQs",
+      "category": "Buying",
+      "labels": [
+        "message",
+        "contact",
+        "send"
+      ],
+      "updated_at": "2023-08-10T14:29:09Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4406872150802-How-to-Message-a-Seller",
+      "file": "articles/4406872150802-how-to-message-a-seller.md"
+    },
+    {
+      "id": 360010256300,
+      "title": "How to Open a Dispute",
+      "section": "Troubleshooting",
+      "category": "Buying",
+      "labels": [
+        "not as advertised",
+        "how to open a dispute",
+        "not as pictured",
+        "return",
+        "need to return this",
+        "wrong"
+      ],
+      "updated_at": "2025-12-16T18:39:28Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010256300-How-to-Open-a-Dispute",
+      "file": "articles/360010256300-how-to-open-a-dispute.md"
+    },
+    {
+      "id": 360010361039,
+      "title": "How to Package My Item",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-19T20:28:08Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361039-How-to-Package-My-Item",
+      "file": "articles/360010361039-how-to-package-my-item.md"
+    },
+    {
+      "id": 360019157659,
+      "title": "How to Price Drop an Item",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [
+        "price",
+        "price drop",
+        "price dropping",
+        "drop price",
+        "lower"
+      ],
+      "updated_at": "2023-09-14T14:49:35Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360019157659-How-to-Price-Drop-an-Item",
+      "file": "articles/360019157659-how-to-price-drop-an-item.md"
+    },
+    {
+      "id": 360010255540,
+      "title": "How to Print a Shipping Label",
+      "section": "Shipping",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-19T20:45:19Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010255540-How-to-Print-a-Shipping-Label",
+      "file": "articles/360010255540-how-to-print-a-shipping-label.md"
+    },
+    {
+      "id": 9278153969820,
+      "title": "How to Purchase with Venmo",
+      "section": "Payment Methods",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2023-09-14T15:15:56Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/9278153969820-How-to-Purchase-with-Venmo",
+      "file": "articles/9278153969820-how-to-purchase-with-venmo.md"
+    },
+    {
+      "id": 360010269320,
+      "title": "How to Report another User or Listing",
+      "section": "Troubleshooting my account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2024-08-21T14:03:22Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010269320-How-to-Report-another-User-or-Listing",
+      "file": "articles/360010269320-how-to-report-another-user-or-listing.md"
+    },
+    {
+      "id": 360020747100,
+      "title": "How to Schedule Free USPS Pickups",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-19T20:21:12Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360020747100-How-to-Schedule-Free-USPS-Pickups",
+      "file": "articles/360020747100-how-to-schedule-free-usps-pickups.md"
+    },
+    {
+      "id": 360010360939,
+      "title": "How to Sell",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2021-02-05T21:41:53Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010360939-How-to-Sell",
+      "file": "articles/360010360939-how-to-sell.md"
+    },
+    {
+      "id": 5902190131100,
+      "title": "How to sell with auctions",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [
+        "auctions",
+        "auction",
+        "sell",
+        "bid"
+      ],
+      "updated_at": "2023-08-15T13:30:36Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/5902190131100-How-to-sell-with-auctions",
+      "file": "articles/5902190131100-how-to-sell-with-auctions.md"
+    },
+    {
+      "id": 8514158979868,
+      "title": "How to Send Bulk Offers",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-14T15:01:23Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/8514158979868-How-to-Send-Bulk-Offers",
+      "file": "articles/8514158979868-how-to-send-bulk-offers.md"
+    },
+    {
+      "id": 360020411199,
+      "title": "How to Send Private Offers",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-14T15:05:15Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360020411199-How-to-Send-Private-Offers",
+      "file": "articles/360020411199-how-to-send-private-offers.md"
+    },
+    {
+      "id": 4873501778204,
+      "title": "How to set your own shipping cost",
+      "section": "Shipping",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-08-17T01:21:39Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4873501778204-How-to-set-your-own-shipping-cost",
+      "file": "articles/4873501778204-how-to-set-your-own-shipping-cost.md"
+    },
+    {
+      "id": 360019085380,
+      "title": "How to Share Shipping Labels",
+      "section": "Troubleshooting",
+      "category": "Shipping",
+      "labels": [
+        "label",
+        "share",
+        "shared label",
+        "share label"
+      ],
+      "updated_at": "2023-09-14T14:24:17Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360019085380-How-to-Share-Shipping-Labels",
+      "file": "articles/360019085380-how-to-share-shipping-labels.md"
+    },
+    {
+      "id": 360010266000,
+      "title": "How to Ship a Bike",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-19T20:46:36Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010266000-How-to-Ship-a-Bike",
+      "file": "articles/360010266000-how-to-ship-a-bike.md"
+    },
+    {
+      "id": 360010265320,
+      "title": "How to Ship a Lacrosse Goalie Stick",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-19T20:42:37Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010265320-How-to-Ship-a-Lacrosse-Goalie-Stick",
+      "file": "articles/360010265320-how-to-ship-a-lacrosse-goalie-stick.md"
+    },
+    {
+      "id": 360010378679,
+      "title": "How to Ship Baseball & Softball Bats",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2025-09-11T16:55:18Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010378679-How-to-Ship-Baseball-Softball-Bats",
+      "file": "articles/360010378679-how-to-ship-baseball-softball-bats.md"
+    },
+    {
+      "id": 4404727336466,
+      "title": "How to Ship Catcher's Equipment",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-19T20:15:39Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4404727336466-How-to-Ship-Catcher-s-Equipment",
+      "file": "articles/4404727336466-how-to-ship-catchers-equipment.md"
+    },
+    {
+      "id": 4405044010898,
+      "title": "How to Ship Complete Lacrosse Sticks",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-15T18:15:51Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4405044010898-How-to-Ship-Complete-Lacrosse-Sticks",
+      "file": "articles/4405044010898-how-to-ship-complete-lacrosse-sticks.md"
+    },
+    {
+      "id": 360010265380,
+      "title": "How to Ship Golf Clubs",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2025-04-17T18:10:57Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010265380-How-to-Ship-Golf-Clubs",
+      "file": "articles/360010265380-how-to-ship-golf-clubs.md"
+    },
+    {
+      "id": 360010869740,
+      "title": "How to Ship Hockey Goalie Pads",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-15T18:19:40Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010869740-How-to-Ship-Hockey-Goalie-Pads",
+      "file": "articles/360010869740-how-to-ship-hockey-goalie-pads.md"
+    },
+    {
+      "id": 360010378559,
+      "title": "How to Ship Hockey Goalie Sticks",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-19T20:43:09Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010378559-How-to-Ship-Hockey-Goalie-Sticks",
+      "file": "articles/360010378559-how-to-ship-hockey-goalie-sticks.md"
+    },
+    {
+      "id": 4405697844114,
+      "title": "How to Ship Hockey Skates",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-14T16:11:40Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4405697844114-How-to-Ship-Hockey-Skates",
+      "file": "articles/4405697844114-how-to-ship-hockey-skates.md"
+    },
+    {
+      "id": 4404727089938,
+      "title": "How to Ship Hockey Sticks",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-14T16:10:33Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4404727089938-How-to-Ship-Hockey-Sticks",
+      "file": "articles/4404727089938-how-to-ship-hockey-sticks.md"
+    },
+    {
+      "id": 4405372059410,
+      "title": "How to Ship Lacrosse Heads",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-19T20:18:00Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4405372059410-How-to-Ship-Lacrosse-Heads",
+      "file": "articles/4405372059410-how-to-ship-lacrosse-heads.md"
+    },
+    {
+      "id": 4405378667026,
+      "title": "How to Ship Lacrosse Shafts",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-14T15:37:36Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4405378667026-How-to-Ship-Lacrosse-Shafts",
+      "file": "articles/4405378667026-how-to-ship-lacrosse-shafts.md"
+    },
+    {
+      "id": 360010267500,
+      "title": "How to Ship Lacrosse Sticks",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-14T15:40:04Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010267500-How-to-Ship-Lacrosse-Sticks",
+      "file": "articles/360010267500-how-to-ship-lacrosse-sticks.md"
+    },
+    {
+      "id": 360010265220,
+      "title": "How to Ship on SidelineSwap",
+      "section": "Shipping FAQs",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2022-02-25T18:28:09Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010265220-How-to-Ship-on-SidelineSwap",
+      "file": "articles/360010265220-how-to-ship-on-sidelineswap.md"
+    },
+    {
+      "id": 360010255500,
+      "title": "How to Ship Outside North America",
+      "section": "Shipping",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-19T20:46:00Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010255500-How-to-Ship-Outside-North-America",
+      "file": "articles/360010255500-how-to-ship-outside-north-america.md"
+    },
+    {
+      "id": 4402703620242,
+      "title": "How to Ship Ski Poles",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-14T15:41:05Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4402703620242-How-to-Ship-Ski-Poles",
+      "file": "articles/4402703620242-how-to-ship-ski-poles.md"
+    },
+    {
+      "id": 4402194600210,
+      "title": "How to Ship Skis",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-15T18:21:06Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4402194600210-How-to-Ship-Skis",
+      "file": "articles/4402194600210-how-to-ship-skis.md"
+    },
+    {
+      "id": 4402697429778,
+      "title": "How to Ship Snowboards",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-15T18:18:37Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4402697429778-How-to-Ship-Snowboards",
+      "file": "articles/4402697429778-how-to-ship-snowboards.md"
+    },
+    {
+      "id": 4404727461138,
+      "title": "How to Ship Tennis Rackets",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-15T18:13:05Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4404727461138-How-to-Ship-Tennis-Rackets",
+      "file": "articles/4404727461138-how-to-ship-tennis-rackets.md"
+    },
+    {
+      "id": 4411935113362,
+      "title": "How to ship with your own shipping label",
+      "section": "Shipping FAQs",
+      "category": "Shipping",
+      "labels": [
+        "address",
+        "new label",
+        "my own",
+        "shipped on my own",
+        "not accepted",
+        "usps",
+        "new tracking",
+        "tracking number",
+        "shipped",
+        "printer",
+        "on my own",
+        "business account",
+        "print"
+      ],
+      "updated_at": "2022-12-16T17:03:35Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4411935113362-How-to-ship-with-your-own-shipping-label",
+      "file": "articles/4411935113362-how-to-ship-with-your-own-shipping-label.md"
+    },
+    {
+      "id": 360010375099,
+      "title": "How to Track USPS International Packages",
+      "section": "Shipping Essentials",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-09-28T15:36:45Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010375099-How-to-Track-USPS-International-Packages",
+      "file": "articles/360010375099-how-to-track-usps-international-packages.md"
+    },
+    {
+      "id": 360010379039,
+      "title": "How to Trade",
+      "section": "Trading",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2021-03-26T11:38:02Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010379039-How-to-Trade",
+      "file": "articles/360010379039-how-to-trade.md"
+    },
+    {
+      "id": 7005628639132,
+      "title": "How to Update your Shipment",
+      "section": "Shipping FAQs",
+      "category": "Shipping",
+      "labels": [
+        "label",
+        "address",
+        "tracking",
+        "print",
+        "update",
+        "number"
+      ],
+      "updated_at": "2022-12-16T18:13:01Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/7005628639132-How-to-Update-your-Shipment",
+      "file": "articles/7005628639132-how-to-update-your-shipment.md"
+    },
+    {
+      "id": 360010256180,
+      "title": "How to Use PayPal",
+      "section": "Payment Methods",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2023-09-19T20:52:36Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010256180-How-to-Use-PayPal",
+      "file": "articles/360010256180-how-to-use-paypal.md"
+    },
+    {
+      "id": 360010361459,
+      "title": "How to use SidelineSwap Bumps",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [
+        "bump",
+        "bumps",
+        "bumped"
+      ],
+      "updated_at": "2024-08-07T20:35:34Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361459-How-to-use-SidelineSwap-Bumps",
+      "file": "articles/360010361459-how-to-use-sidelineswap-bumps.md"
+    },
+    {
+      "id": 360010497039,
+      "title": "How Vacation Mode Works",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2024-09-13T18:46:19Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010497039-How-Vacation-Mode-Works",
+      "file": "articles/360010497039-how-vacation-mode-works.md"
+    },
+    {
+      "id": 360010362239,
+      "title": "How Warranties Work",
+      "section": "Refunds",
+      "category": "Buying",
+      "labels": [
+        "warranty",
+        "warranties"
+      ],
+      "updated_at": "2023-09-28T15:11:24Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010362239-How-Warranties-Work",
+      "file": "articles/360010362239-how-warranties-work.md"
+    },
+    {
+      "id": 4405754325906,
+      "title": "I am not receiving a pin when I try to log in",
+      "section": "Troubleshooting my account",
+      "category": "Managing My Account",
+      "labels": [
+        "pin",
+        "can't log in",
+        "not receiving",
+        "not receiving pin",
+        "never received pin",
+        "recognizes",
+        "recognizes my device",
+        "pin was not sent",
+        "did not receive pin",
+        "authorize"
+      ],
+      "updated_at": "2026-05-07T13:41:24Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4405754325906-I-am-not-receiving-a-pin-when-I-try-to-log-in",
+      "file": "articles/4405754325906-i-am-not-receiving-a-pin-when-i-try-to-log-in.md"
+    },
+    {
+      "id": 360010356539,
+      "title": "Infringement",
+      "section": "General Information",
+      "category": "General Support",
+      "labels": [],
+      "updated_at": "2020-07-23T15:37:02Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010356539-Infringement",
+      "file": "articles/360010356539-infringement.md"
+    },
+    {
+      "id": 360019393859,
+      "title": "International Shipments",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [
+        "international",
+        "international purchase",
+        "customs",
+        "delays"
+      ],
+      "updated_at": "2025-05-20T13:05:56Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360019393859-International-Shipments",
+      "file": "articles/360019393859-international-shipments.md"
+    },
+    {
+      "id": 4412819019922,
+      "title": "Is it possible to integrate SidelineSwap with my Inventory Management System?",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2026-01-26T20:42:37Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4412819019922-Is-it-possible-to-integrate-SidelineSwap-with-my-Inventory-Management-System",
+      "file": "articles/4412819019922-is-it-possible-to-integrate-sidelineswap-with-my-inventory-m.md"
+    },
+    {
+      "id": 360010985319,
+      "title": "Listing Hockey Goalie Pads",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2020-07-24T13:48:55Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010985319-Listing-Hockey-Goalie-Pads",
+      "file": "articles/360010985319-listing-hockey-goalie-pads.md"
+    },
+    {
+      "id": 360013741480,
+      "title": "Minimum Balance to Cashout",
+      "section": "Cashing Out",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2020-07-24T14:38:39Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360013741480-Minimum-Balance-to-Cashout",
+      "file": "articles/360013741480-minimum-balance-to-cashout.md"
+    },
+    {
+      "id": 360010379559,
+      "title": "My Account has been Banned",
+      "section": "Troubleshooting my account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2020-07-24T17:52:02Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010379559-My-Account-has-been-Banned",
+      "file": "articles/360010379559-my-account-has-been-banned.md"
+    },
+    {
+      "id": 360010379339,
+      "title": "My Account has been Restricted",
+      "section": "Troubleshooting my account",
+      "category": "Managing My Account",
+      "labels": [
+        "restricted",
+        "why am i restricted",
+        "restriction"
+      ],
+      "updated_at": "2020-11-14T15:58:47Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010379339-My-Account-has-been-Restricted",
+      "file": "articles/360010379339-my-account-has-been-restricted.md"
+    },
+    {
+      "id": 27306287679132,
+      "title": "My email or phone number is \"already in use\" ",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2026-05-07T13:59:19Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/27306287679132-My-email-or-phone-number-is-already-in-use",
+      "file": "articles/27306287679132-my-email-or-phone-number-is-already-in-use.md"
+    },
+    {
+      "id": 360010269140,
+      "title": "My Item was Purchased Before I could Trade",
+      "section": "Trading",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2020-07-24T17:56:09Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010269140-My-Item-was-Purchased-Before-I-could-Trade",
+      "file": "articles/360010269140-my-item-was-purchased-before-i-could-trade.md"
+    },
+    {
+      "id": 360010256000,
+      "title": "My Purchase Never Shipped",
+      "section": "Buyer FAQs",
+      "category": "Buying",
+      "labels": [
+        "cancel my",
+        "cancel swap",
+        "cancel my order"
+      ],
+      "updated_at": "2025-12-16T16:27:23Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010256000-My-Purchase-Never-Shipped",
+      "file": "articles/360010256000-my-purchase-never-shipped.md"
+    },
+    {
+      "id": 360010356399,
+      "title": "Next Steps After Payment",
+      "section": "General Information",
+      "category": "General Support",
+      "labels": [],
+      "updated_at": "2020-07-24T18:06:17Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010356399-Next-Steps-After-Payment",
+      "file": "articles/360010356399-next-steps-after-payment.md"
+    },
+    {
+      "id": 360011738399,
+      "title": "North Carolina Sales Tax Reporting",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2020-07-22T14:55:50Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360011738399-North-Carolina-Sales-Tax-Reporting",
+      "file": "articles/360011738399-north-carolina-sales-tax-reporting.md"
+    },
+    {
+      "id": 17946263728028,
+      "title": "Online Trade-in FAQ",
+      "section": "General Information",
+      "category": "Online Trade-In Support",
+      "labels": [
+        "gift card",
+        "trade-in",
+        "rawlings",
+        "baseball bat",
+        "trade"
+      ],
+      "updated_at": "2025-02-27T18:23:07Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/17946263728028-Online-Trade-in-FAQ",
+      "file": "articles/17946263728028-online-trade-in-faq.md"
+    },
+    {
+      "id": 360010378699,
+      "title": "Oversized Packaging",
+      "section": "Packaging Tips & Tricks",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2020-07-24T17:23:21Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010378699-Oversized-Packaging",
+      "file": "articles/360010378699-oversized-packaging.md"
+    },
+    {
+      "id": 360010256320,
+      "title": "Payment Failures",
+      "section": "Troubleshooting",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2026-06-26T17:51:55Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010256320-Payment-Failures",
+      "file": "articles/360010256320-payment-failures.md"
+    },
+    {
+      "id": 360010255980,
+      "title": "Payment Information Security",
+      "section": "Buyer FAQs",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2020-07-24T14:52:32Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010255980-Payment-Information-Security",
+      "file": "articles/360010255980-payment-information-security.md"
+    },
+    {
+      "id": 360010270160,
+      "title": "Press Inquiries",
+      "section": "General Information",
+      "category": "General Support",
+      "labels": [],
+      "updated_at": "2020-09-09T15:33:41Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010270160-Press-Inquiries",
+      "file": "articles/360010270160-press-inquiries.md"
+    },
+    {
+      "id": 19057747361820,
+      "title": "RESOLVED: 11/18/25 Shipping Label Issues",
+      "section": "RESOLVED: 11/18 Shipping Label Issues",
+      "category": "SidelineSwap Status Updates",
+      "labels": [],
+      "updated_at": "2025-11-19T13:00:43Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/19057747361820-RESOLVED-11-18-25-Shipping-Label-Issues",
+      "file": "articles/19057747361820-resolved-111825-shipping-label-issues.md"
+    },
+    {
+      "id": 360010252480,
+      "title": "Restricted Accounts",
+      "section": "Troubleshooting",
+      "category": "General Support",
+      "labels": [],
+      "updated_at": "2024-09-13T18:46:52Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010252480-Restricted-Accounts",
+      "file": "articles/360010252480-restricted-accounts.md"
+    },
+    {
+      "id": 360010252440,
+      "title": "Retail Partnerships with SidelineSwap",
+      "section": "Getting started on SidelineSwap",
+      "category": "Getting Started",
+      "labels": [],
+      "updated_at": "2020-07-24T14:36:40Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010252440-Retail-Partnerships-with-SidelineSwap",
+      "file": "articles/360010252440-retail-partnerships-with-sidelineswap.md"
+    },
+    {
+      "id": 360013785899,
+      "title": "Safely Shipping and Receiving Packages",
+      "section": "Shipping FAQs",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2021-08-23T13:45:28Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360013785899-Safely-Shipping-and-Receiving-Packages",
+      "file": "articles/360013785899-safely-shipping-and-receiving-packages.md"
+    },
+    {
+      "id": 360010255900,
+      "title": "Sales & Promotions",
+      "section": "Other Selling Programs",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2020-07-24T14:46:47Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010255900-Sales-Promotions",
+      "file": "articles/360010255900-sales-promotions.md"
+    },
+    {
+      "id": 360010256280,
+      "title": "Seller Not Responding",
+      "section": "Troubleshooting",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2020-07-24T17:11:05Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010256280-Seller-Not-Responding",
+      "file": "articles/360010256280-seller-not-responding.md"
+    },
+    {
+      "id": 360010356339,
+      "title": "Seller Tips & Best Practices",
+      "section": "Getting started on SidelineSwap",
+      "category": "Getting Started",
+      "labels": [],
+      "updated_at": "2023-02-23T21:28:30Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010356339-Seller-Tips-Best-Practices",
+      "file": "articles/360010356339-seller-tips-best-practices.md"
+    },
+    {
+      "id": 360010362079,
+      "title": "Shipping Costs for Buyers",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2020-07-24T15:08:03Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010362079-Shipping-Costs-for-Buyers",
+      "file": "articles/360010362079-shipping-costs-for-buyers.md"
+    },
+    {
+      "id": 22006240070300,
+      "title": "Shipping from Canada to US: What You Need to Know",
+      "section": "Shipping",
+      "category": "Selling",
+      "labels": [
+        "duty",
+        "customs",
+        "canada post",
+        "UPS",
+        "tariff",
+        "trump"
+      ],
+      "updated_at": "2026-05-28T16:42:31Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/22006240070300-Shipping-from-Canada-to-US-What-You-Need-to-Know",
+      "file": "articles/22006240070300-shipping-from-canada-to-us-what-you-need-to-know.md"
+    },
+    {
+      "id": 13695820204700,
+      "title": "Shipping Label won't Print",
+      "section": "Troubleshooting",
+      "category": "General Support",
+      "labels": [
+        "shipping",
+        "ship",
+        "label",
+        "print",
+        "failure",
+        "fail"
+      ],
+      "updated_at": "2024-04-24T14:23:00Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/13695820204700-Shipping-Label-won-t-Print",
+      "file": "articles/13695820204700-shipping-label-wont-print.md"
+    },
+    {
+      "id": 11211116987676,
+      "title": "Shipping Labels Failing to Print",
+      "section": "Troubleshooting",
+      "category": "General Support",
+      "labels": [
+        "shipping",
+        "ship",
+        "label",
+        "print",
+        "down",
+        "can't",
+        "unable",
+        "sign in",
+        "access"
+      ],
+      "updated_at": "2024-05-22T18:37:22Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/11211116987676-Shipping-Labels-Failing-to-Print",
+      "file": "articles/11211116987676-shipping-labels-failing-to-print.md"
+    },
+    {
+      "id": 360010374979,
+      "title": "Shipping Regions on SidelineSwap",
+      "section": "Shipping Essentials",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2023-08-17T02:14:00Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010374979-Shipping-Regions-on-SidelineSwap",
+      "file": "articles/360010374979-shipping-regions-on-sidelineswap.md"
+    },
+    {
+      "id": 23537900186268,
+      "title": "Shipping with Chit Chats from Canada",
+      "section": "Shipping FAQs",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2025-11-27T11:13:19Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/23537900186268-Shipping-with-Chit-Chats-from-Canada",
+      "file": "articles/23537900186268-shipping-with-chit-chats-from-canada.md"
+    },
+    {
+      "id": 360010356479,
+      "title": "SidelineSwap Badges",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2025-07-16T17:03:10Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010356479-SidelineSwap-Badges",
+      "file": "articles/360010356479-sidelineswap-badges.md"
+    },
+    {
+      "id": 18192892443676,
+      "title": "SidelineSwap Counterfeit Policy",
+      "section": "General Information",
+      "category": "General Support",
+      "labels": [
+        "report",
+        "fake",
+        "fraud",
+        "ccm",
+        "jersey",
+        "counterfeit",
+        "bauer",
+        "sticks",
+        "stick"
+      ],
+      "updated_at": "2025-01-29T15:27:38Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/18192892443676-SidelineSwap-Counterfeit-Policy",
+      "file": "articles/18192892443676-sidelineswap-counterfeit-policy.md"
+    },
+    {
+      "id": 22124355926812,
+      "title": "Tariffs on Canada to U.S. Shipments",
+      "section": "Shipping",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2026-05-28T16:42:01Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/22124355926812-Tariffs-on-Canada-to-U-S-Shipments",
+      "file": "articles/22124355926812-tariffs-on-canada-to-us-shipments.md"
+    },
+    {
+      "id": 360010356419,
+      "title": "Tips for our Canadian Users",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2025-11-03T21:42:30Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010356419-Tips-for-our-Canadian-Users",
+      "file": "articles/360010356419-tips-for-our-canadian-users.md"
+    },
+    {
+      "id": 360012623059,
+      "title": "U.S. Small Business Administration Disaster Relief",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2020-05-12T16:08:18Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360012623059-U-S-Small-Business-Administration-Disaster-Relief",
+      "file": "articles/360012623059-us-small-business-administration-disaster-relief.md"
+    },
+    {
+      "id": 360010265100,
+      "title": "Understanding Tariffs and Import Fees for International Purchases",
+      "section": "Shipping Essentials",
+      "category": "Shipping",
+      "labels": [
+        "duty",
+        "duty fee",
+        "held at post office",
+        "collect on delivery",
+        "COD"
+      ],
+      "updated_at": "2026-05-28T16:40:52Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010265100-Understanding-Tariffs-and-Import-Fees-for-International-Purchases",
+      "file": "articles/360010265100-understanding-tariffs-and-import-fees-for-international-purc.md"
+    },
+    {
+      "id": 360010269200,
+      "title": "Using \"Favorites\" for Saved Searches, Lockers, and Items",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2025-04-17T20:23:10Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010269200-Using-Favorites-for-Saved-Searches-Lockers-and-Items",
+      "file": "articles/360010269200-using-favorites-for-saved-searches-lockers-and-items.md"
+    },
+    {
+      "id": 12030909715356,
+      "title": "W9/1099-K for tax year 2024",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [
+        "w9",
+        "tax",
+        "disabled",
+        "1099",
+        "taxes",
+        "cashout",
+        "form",
+        "2024"
+      ],
+      "updated_at": "2024-10-08T19:15:34Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/12030909715356-W9-1099-K-for-tax-year-2024",
+      "file": "articles/12030909715356-w91099-k-for-tax-year-2024.md"
+    },
+    {
+      "id": 21210451235612,
+      "title": "W9/1099-K for tax year 2025",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2025-07-24T14:49:51Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/21210451235612-W9-1099-K-for-tax-year-2025",
+      "file": "articles/21210451235612-w91099-k-for-tax-year-2025.md"
+    },
+    {
+      "id": 360010362219,
+      "title": "What are the Accepted Payment Methods?",
+      "section": "Payment Methods",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2026-04-02T16:36:56Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010362219-What-are-the-Accepted-Payment-Methods",
+      "file": "articles/360010362219-what-are-the-accepted-payment-methods.md"
+    },
+    {
+      "id": 360010255860,
+      "title": "What are the Age Requirements to Cashout?",
+      "section": "Cashing Out",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-28T15:34:31Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010255860-What-are-the-Age-Requirements-to-Cashout",
+      "file": "articles/360010255860-what-are-the-age-requirements-to-cashout.md"
+    },
+    {
+      "id": 360010360999,
+      "title": "What are the Fees?",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [
+        "full amount",
+        "fees",
+        "where did my money go"
+      ],
+      "updated_at": "2026-06-26T17:52:36Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010360999-What-are-the-Fees",
+      "file": "articles/360010360999-what-are-the-fees.md"
+    },
+    {
+      "id": 360010356299,
+      "title": "What are the General Community Guidelines?",
+      "section": "Getting started on SidelineSwap",
+      "category": "Getting Started",
+      "labels": [],
+      "updated_at": "2023-09-28T15:23:14Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010356299-What-are-the-General-Community-Guidelines",
+      "file": "articles/360010356299-what-are-the-general-community-guidelines.md"
+    },
+    {
+      "id": 360010356439,
+      "title": "What are the Supported Browsers & Devices? ",
+      "section": "General Information",
+      "category": "General Support",
+      "labels": [],
+      "updated_at": "2023-09-28T15:21:43Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010356439-What-are-the-Supported-Browsers-Devices",
+      "file": "articles/360010356439-what-are-the-supported-browsers-devices.md"
+    },
+    {
+      "id": 15306853219868,
+      "title": "What are “Advanced Insights”?",
+      "section": "Sideline Pro",
+      "category": "Selling",
+      "labels": [
+        "report",
+        "insights",
+        "sell through rate",
+        "swaps",
+        "item",
+        "recent sales",
+        "advanced"
+      ],
+      "updated_at": "2024-08-07T20:36:57Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/15306853219868-What-are-Advanced-Insights",
+      "file": "articles/15306853219868-what-are-advanced-insights.md"
+    },
+    {
+      "id": 360018476400,
+      "title": "What does Fast Shipping mean?",
+      "section": "Buyer FAQs",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2020-12-18T17:09:24Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360018476400-What-does-Fast-Shipping-mean",
+      "file": "articles/360018476400-what-does-fast-shipping-mean.md"
+    },
+    {
+      "id": 4410657129490,
+      "title": "What does fixed rate shipping mean?",
+      "section": "Shipping FAQs",
+      "category": "Shipping",
+      "labels": [
+        "shipping",
+        "fixed rate",
+        "fixed",
+        "rate",
+        "free",
+        "free shipping"
+      ],
+      "updated_at": "2024-04-27T17:31:21Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4410657129490-What-does-fixed-rate-shipping-mean",
+      "file": "articles/4410657129490-what-does-fixed-rate-shipping-mean.md"
+    },
+    {
+      "id": 360010255520,
+      "title": "What Does Swap \"Under Review\" Mean?",
+      "section": "Shipping",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-28T15:45:02Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010255520-What-Does-Swap-Under-Review-Mean",
+      "file": "articles/360010255520-what-does-swap-under-review-mean.md"
+    },
+    {
+      "id": 360015615000,
+      "title": "What Estimated Time to Ship Means",
+      "section": "Buyer FAQs",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2023-09-28T15:37:33Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360015615000-What-Estimated-Time-to-Ship-Means",
+      "file": "articles/360015615000-what-estimated-time-to-ship-means.md"
+    },
+    {
+      "id": 360010361499,
+      "title": "What happens if I accidentally shipped the wrong item?",
+      "section": "Shipping",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2020-10-16T16:00:29Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361499-What-happens-if-I-accidentally-shipped-the-wrong-item",
+      "file": "articles/360010361499-what-happens-if-i-accidentally-shipped-the-wrong-item.md"
+    },
+    {
+      "id": 360018164779,
+      "title": "What happens if I lose my gift card?",
+      "section": "SidelineSwap Gift Cards",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2020-12-09T19:23:19Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360018164779-What-happens-if-I-lose-my-gift-card",
+      "file": "articles/360018164779-what-happens-if-i-lose-my-gift-card.md"
+    },
+    {
+      "id": 360010613840,
+      "title": "What happens if my shipping label is not accepted?",
+      "section": "Troubleshooting",
+      "category": "Shipping",
+      "labels": [
+        "label",
+        "address",
+        "new label",
+        "my own",
+        "tracking",
+        "new tracking number",
+        "shipped on my own",
+        "with my own tracking number",
+        "not accepted",
+        "rejected",
+        "usps",
+        "fedex",
+        "ups",
+        "new tracking",
+        "tracking number",
+        "shipped",
+        "printer",
+        "update label",
+        "use my own label"
+      ],
+      "updated_at": "2023-08-17T01:43:26Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010613840-What-happens-if-my-shipping-label-is-not-accepted",
+      "file": "articles/360010613840-what-happens-if-my-shipping-label-is-not-accepted.md"
+    },
+    {
+      "id": 360017049820,
+      "title": "What if my buyer does not approve the swap?",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [
+        "paid",
+        "when will i get paid",
+        "when will i be paid",
+        "my buyer hasn't approved yet",
+        "acceptance",
+        "accept",
+        "accepted",
+        "hasn't accepted yet",
+        "buyer hasn't accepted yet",
+        "buyer hasn't confirmed",
+        "the buyer has not accepted the item",
+        "approve",
+        "approve my",
+        "release funds",
+        "approval",
+        "not approved yet",
+        "hasn't accepted",
+        "delivered to the buyer",
+        "when can i cash out",
+        "approve the swap",
+        "won't accept",
+        "accept my package",
+        "more than 72",
+        "72 hours",
+        "72"
+      ],
+      "updated_at": "2020-12-13T03:32:11Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360017049820-What-if-my-buyer-does-not-approve-the-swap",
+      "file": "articles/360017049820-what-if-my-buyer-does-not-approve-the-swap.md"
+    },
+    {
+      "id": 360010362299,
+      "title": "What if my seller never ships?",
+      "section": "Troubleshooting",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2021-06-08T16:18:57Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010362299-What-if-my-seller-never-ships",
+      "file": "articles/360010362299-what-if-my-seller-never-ships.md"
+    },
+    {
+      "id": 6715535838364,
+      "title": "What is \"Refresh Tracking Status\"?",
+      "section": "Troubleshooting",
+      "category": "Shipping",
+      "labels": [
+        "delivered",
+        "tracking",
+        "shipped",
+        "sync",
+        "refresh"
+      ],
+      "updated_at": "2022-11-22T19:37:51Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/6715535838364-What-is-Refresh-Tracking-Status",
+      "file": "articles/6715535838364-what-is-refresh-tracking-status.md"
+    },
+    {
+      "id": 360010361899,
+      "title": "What is a SidelineSwap Verified Business?",
+      "section": "Other Selling Programs",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-28T15:16:23Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361899-What-is-a-SidelineSwap-Verified-Business",
+      "file": "articles/360010361899-what-is-a-sidelineswap-verified-business.md"
+    },
+    {
+      "id": 10714161709212,
+      "title": "What is Return Assurance powered by Seel?",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2025-12-16T18:56:19Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/10714161709212-What-is-Return-Assurance-powered-by-Seel",
+      "file": "articles/10714161709212-what-is-return-assurance-powered-by-seel.md"
+    },
+    {
+      "id": 14855005075740,
+      "title": "What is Sideline Pro?",
+      "section": "Sideline Pro",
+      "category": "Selling",
+      "labels": [
+        "subscribe",
+        "pro plus",
+        "pro+",
+        "pro",
+        "subscription"
+      ],
+      "updated_at": "2024-08-07T20:31:00Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/14855005075740-What-is-Sideline-Pro",
+      "file": "articles/14855005075740-what-is-sideline-pro.md"
+    },
+    {
+      "id": 15181494265372,
+      "title": "What is SidelineSwap's return policy?",
+      "section": "How to buy and sell on SidelineSwap",
+      "category": "Getting Started",
+      "labels": [
+        "return",
+        "refund",
+        "return policy",
+        "returns",
+        "policy",
+        "protection",
+        "buyer protection",
+        "cancel",
+        "cancellation",
+        "Seel"
+      ],
+      "updated_at": "2024-07-30T20:50:48Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/15181494265372-What-is-SidelineSwap-s-return-policy",
+      "file": "articles/15181494265372-what-is-sidelineswaps-return-policy.md"
+    },
+    {
+      "id": 15181519655196,
+      "title": "What is SidelineSwap’s refund policy?",
+      "section": "How to buy and sell on SidelineSwap",
+      "category": "Getting Started",
+      "labels": [
+        "return",
+        "refund",
+        "payment",
+        "policy",
+        "cancel",
+        "cancellation",
+        "refunds",
+        "refund policy",
+        "never ships"
+      ],
+      "updated_at": "2024-07-30T20:51:33Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/15181519655196-What-is-SidelineSwap-s-refund-policy",
+      "file": "articles/15181519655196-what-is-sidelineswaps-refund-policy.md"
+    },
+    {
+      "id": 360010361259,
+      "title": "What is the Definition of a \"New\" Item?",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2023-09-28T15:35:35Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361259-What-is-the-Definition-of-a-New-Item",
+      "file": "articles/360010361259-what-is-the-definition-of-a-new-item.md"
+    },
+    {
+      "id": 360010361699,
+      "title": "What is the Dispute Policy?",
+      "section": "Disputes & Refunds",
+      "category": "Selling",
+      "labels": [
+        "not as advertised",
+        "open a dispute",
+        "dispute",
+        "wrong item",
+        "wrong size"
+      ],
+      "updated_at": "2024-09-10T19:25:05Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361699-What-is-the-Dispute-Policy",
+      "file": "articles/360010361699-what-is-the-dispute-policy.md"
+    },
+    {
+      "id": 7831970783260,
+      "title": "What is the INFORM Act 2023?",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [
+        "tax",
+        "cashout",
+        "seller",
+        "INFORM",
+        "disclose",
+        "ID"
+      ],
+      "updated_at": "2023-09-05T13:50:09Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/7831970783260-What-is-the-INFORM-Act-2023",
+      "file": "articles/7831970783260-what-is-the-inform-act-2023.md"
+    },
+    {
+      "id": 360010379119,
+      "title": "What is the Minimum Age to Sell on SidelineSwap?",
+      "section": "My Account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2023-09-19T20:51:56Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010379119-What-is-the-Minimum-Age-to-Sell-on-SidelineSwap",
+      "file": "articles/360010379119-what-is-the-minimum-age-to-sell-on-sidelineswap.md"
+    },
+    {
+      "id": 360010252500,
+      "title": "What is the Prohibited Items Policy?",
+      "section": "General Information",
+      "category": "General Support",
+      "labels": [],
+      "updated_at": "2023-09-28T15:42:57Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010252500-What-is-the-Prohibited-Items-Policy",
+      "file": "articles/360010252500-what-is-the-prohibited-items-policy.md"
+    },
+    {
+      "id": 360010362279,
+      "title": "What is the Refund Policy?",
+      "section": "Refunds",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2024-07-30T12:55:31Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010362279-What-is-the-Refund-Policy",
+      "file": "articles/360010362279-what-is-the-refund-policy.md"
+    },
+    {
+      "id": 360010255960,
+      "title": "What is the SidelineSwap Buyer Protection?",
+      "section": "Buyer FAQs",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2023-09-28T15:38:42Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010255960-What-is-the-SidelineSwap-Buyer-Protection",
+      "file": "articles/360010255960-what-is-the-sidelineswap-buyer-protection.md"
+    },
+    {
+      "id": 22955064883228,
+      "title": "What is the Texas Seller Sales Tax?",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [
+        "tax",
+        "seller",
+        "texas",
+        "sales tax",
+        "fee tax",
+        "seller tax"
+      ],
+      "updated_at": "2025-10-15T10:53:59Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/22955064883228-What-is-the-Texas-Seller-Sales-Tax",
+      "file": "articles/22955064883228-what-is-the-texas-seller-sales-tax.md"
+    },
+    {
+      "id": 360010255360,
+      "title": "What Items You Can Sell",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2020-07-24T13:51:01Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010255360-What-Items-You-Can-Sell",
+      "file": "articles/360010255360-what-items-you-can-sell.md"
+    },
+    {
+      "id": 360014263019,
+      "title": "What No Shipping Costs on an Item Means",
+      "section": "Troubleshooting",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2023-09-28T15:39:57Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360014263019-What-No-Shipping-Costs-on-an-Item-Means",
+      "file": "articles/360014263019-what-no-shipping-costs-on-an-item-means.md"
+    },
+    {
+      "id": 360010614280,
+      "title": "What to Do if My Item is Damaged in Transit",
+      "section": "Troubleshooting",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2026-04-29T17:11:37Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010614280-What-to-Do-if-My-Item-is-Damaged-in-Transit",
+      "file": "articles/360010614280-what-to-do-if-my-item-is-damaged-in-transit.md"
+    },
+    {
+      "id": 360010719699,
+      "title": "What to Do if My Item is Delayed/Lost in Transit",
+      "section": "Troubleshooting",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2026-04-22T13:35:20Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010719699-What-to-Do-if-My-Item-is-Delayed-Lost-in-Transit",
+      "file": "articles/360010719699-what-to-do-if-my-item-is-delayedlost-in-transit.md"
+    },
+    {
+      "id": 360010356359,
+      "title": "What to do When My Swap Has Been Canceled",
+      "section": "Troubleshooting",
+      "category": "General Support",
+      "labels": [],
+      "updated_at": "2023-09-28T15:33:03Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010356359-What-to-do-When-My-Swap-Has-Been-Canceled",
+      "file": "articles/360010356359-what-to-do-when-my-swap-has-been-canceled.md"
+    },
+    {
+      "id": 4407411365010,
+      "title": "What to know as a first-time seller",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2021-09-30T12:41:51Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4407411365010-What-to-know-as-a-first-time-seller",
+      "file": "articles/4407411365010-what-to-know-as-a-first-time-seller.md"
+    },
+    {
+      "id": 360018925859,
+      "title": "When can I cash out?",
+      "section": "Cashing Out",
+      "category": "Selling",
+      "labels": [
+        "can't cash out",
+        "approve",
+        "release funds",
+        "delivered to the buyer",
+        "approve my sale",
+        "when can i cash ouut",
+        "delivered",
+        "update to delivered",
+        "won't approve",
+        "approved",
+        "cash out money",
+        "approving",
+        "confirm",
+        "confirm the purchase"
+      ],
+      "updated_at": "2026-06-26T17:45:17Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360018925859-When-can-I-cash-out",
+      "file": "articles/360018925859-when-can-i-cash-out.md"
+    },
+    {
+      "id": 360017475720,
+      "title": "When will I receive my refund after a dispute?",
+      "section": "Refunds",
+      "category": "Buying",
+      "labels": [
+        "when am i refunded",
+        "dispute returned",
+        "package was returned to the seller"
+      ],
+      "updated_at": "2024-09-13T20:45:11Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360017475720-When-will-I-receive-my-refund-after-a-dispute",
+      "file": "articles/360017475720-when-will-i-receive-my-refund-after-a-dispute.md"
+    },
+    {
+      "id": 360010362259,
+      "title": "When will I receive my refund?",
+      "section": "Refunds",
+      "category": "Buying",
+      "labels": [
+        "when will i get my refund",
+        "when will my credit card be refunded",
+        "when will i get my money back",
+        "when I can expect that money back in account",
+        "my payment",
+        "my payment back",
+        "When will I see the payment",
+        "refund",
+        "business day",
+        "longer",
+        "how long"
+      ],
+      "updated_at": "2026-06-26T17:46:51Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010362259-When-will-I-receive-my-refund",
+      "file": "articles/360010362259-when-will-i-receive-my-refund.md"
+    },
+    {
+      "id": 360010256040,
+      "title": "When will my order ship?",
+      "section": "Buyer FAQs",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2020-10-05T19:55:57Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010256040-When-will-my-order-ship",
+      "file": "articles/360010256040-when-will-my-order-ship.md"
+    },
+    {
+      "id": 360010265040,
+      "title": "When will my package arrive? ",
+      "section": "Shipping FAQs",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2021-05-18T15:30:31Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010265040-When-will-my-package-arrive",
+      "file": "articles/360010265040-when-will-my-package-arrive.md"
+    },
+    {
+      "id": 360019049359,
+      "title": "Where can I find a receipt for my purchase?",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [
+        "receipt",
+        "payment receipt"
+      ],
+      "updated_at": "2021-01-22T09:47:22Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360019049359-Where-can-I-find-a-receipt-for-my-purchase",
+      "file": "articles/360019049359-where-can-i-find-a-receipt-for-my-purchase.md"
+    },
+    {
+      "id": 360017022080,
+      "title": "Where is my package?",
+      "section": "Troubleshooting",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2026-01-26T16:24:48Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360017022080-Where-is-my-package",
+      "file": "articles/360017022080-where-is-my-package.md"
+    },
+    {
+      "id": 5149663377308,
+      "title": "Where to drop off your package",
+      "section": "Shipping FAQs",
+      "category": "Shipping",
+      "labels": [
+        "ship",
+        "usps",
+        "fedex",
+        "dropoff",
+        "drop off"
+      ],
+      "updated_at": "2022-07-20T10:46:58Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/5149663377308-Where-to-drop-off-your-package",
+      "file": "articles/5149663377308-where-to-drop-off-your-package.md"
+    },
+    {
+      "id": 360010255320,
+      "title": "Where to Find Received Offers",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2020-08-17T13:07:30Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010255320-Where-to-Find-Received-Offers",
+      "file": "articles/360010255320-where-to-find-received-offers.md"
+    },
+    {
+      "id": 360010361519,
+      "title": "Who pays for shipping?",
+      "section": "Shipping",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2022-05-02T21:47:57Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010361519-Who-pays-for-shipping",
+      "file": "articles/360010361519-who-pays-for-shipping.md"
+    },
+    {
+      "id": 360010375299,
+      "title": "Who pays for shipping?",
+      "section": "Shipping FAQs",
+      "category": "Shipping",
+      "labels": [],
+      "updated_at": "2021-05-18T15:34:29Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010375299-Who-pays-for-shipping",
+      "file": "articles/360010375299-who-pays-for-shipping.md"
+    },
+    {
+      "id": 360016621320,
+      "title": "Why am I receiving a pin to log in?",
+      "section": "Troubleshooting my account",
+      "category": "Managing My Account",
+      "labels": [],
+      "updated_at": "2020-09-23T15:34:16Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360016621320-Why-am-I-receiving-a-pin-to-log-in",
+      "file": "articles/360016621320-why-am-i-receiving-a-pin-to-log-in.md"
+    },
+    {
+      "id": 360010255760,
+      "title": "Why aren't the funds in my bank account?",
+      "section": "Cashing Out",
+      "category": "Selling",
+      "labels": [
+        "funds aren't in my bank account",
+        "cashed out",
+        "not in my bank",
+        "where is the money"
+      ],
+      "updated_at": "2026-06-29T14:36:00Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360010255760-Why-aren-t-the-funds-in-my-bank-account",
+      "file": "articles/360010255760-why-arent-the-funds-in-my-bank-account.md"
+    },
+    {
+      "id": 360016376699,
+      "title": "Why does it say \"Recurring Charge\" on my bank statement? ",
+      "section": "Payment Methods",
+      "category": "Buying",
+      "labels": [
+        "recurring",
+        "reoccuring",
+        "repeating"
+      ],
+      "updated_at": "2021-02-18T12:16:52Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360016376699-Why-does-it-say-Recurring-Charge-on-my-bank-statement",
+      "file": "articles/360016376699-why-does-it-say-recurring-charge-on-my-bank-statement.md"
+    },
+    {
+      "id": 360011078140,
+      "title": "Why don't I see a shipping cost?",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2020-10-05T19:50:25Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360011078140-Why-don-t-I-see-a-shipping-cost",
+      "file": "articles/360011078140-why-dont-i-see-a-shipping-cost.md"
+    },
+    {
+      "id": 8900184895772,
+      "title": "Why don't some items have a \"Buy Now\" option?",
+      "section": "Buyer FAQs",
+      "category": "Buying",
+      "labels": [
+        "make offer",
+        "buy now",
+        "list price",
+        "asking price"
+      ],
+      "updated_at": "2023-05-22T19:32:41Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/8900184895772-Why-don-t-some-items-have-a-Buy-Now-option",
+      "file": "articles/8900184895772-why-dont-some-items-have-a-buy-now-option.md"
+    },
+    {
+      "id": 8009217609628,
+      "title": "Why haven’t I received my Trade-In gift card? ",
+      "section": "General Information",
+      "category": "General Support",
+      "labels": [
+        "gift card",
+        "dicks",
+        "dick's",
+        "trade in",
+        "monkey",
+        "traded",
+        "attended",
+        "trade-in",
+        "event"
+      ],
+      "updated_at": "2023-03-08T17:57:35Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/8009217609628-Why-haven-t-I-received-my-Trade-In-gift-card",
+      "file": "articles/8009217609628-why-havent-i-received-my-trade-in-gift-card.md"
+    },
+    {
+      "id": 27306616690588,
+      "title": "Why is my seller balance negative or different from what I expected?",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2026-05-07T14:08:27Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/27306616690588-Why-is-my-seller-balance-negative-or-different-from-what-I-expected",
+      "file": "articles/27306616690588-why-is-my-seller-balance-negative-or-different-from-what-i-e.md"
+    },
+    {
+      "id": 27253908237468,
+      "title": "Why isn't my swap status updating correctly?",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [
+        "payment processing"
+      ],
+      "updated_at": "2026-05-07T13:47:03Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/27253908237468-Why-isn-t-my-swap-status-updating-correctly",
+      "file": "articles/27253908237468-why-isnt-my-swap-status-updating-correctly.md"
+    },
+    {
+      "id": 360013927139,
+      "title": "Why Refund Rate Matters",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2021-09-03T13:46:54Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360013927139-Why-Refund-Rate-Matters",
+      "file": "articles/360013927139-why-refund-rate-matters.md"
+    }
+  ]
+}
