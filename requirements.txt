@@ -1,0 +1,2 @@
+requests>=2.31
+markdownify>=0.11
