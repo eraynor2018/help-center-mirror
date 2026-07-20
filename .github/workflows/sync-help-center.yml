@@ -1,0 +1,42 @@
+name: Sync Help Center
+
+on:
+  schedule:
+    - cron: "0 8 * * *"    # daily at 08:00 UTC (~2am Mountain). Cron is always UTC.
+  workflow_dispatch: {}     # adds a "Run workflow" button for manual/first runs
+
+permissions:
+  contents: write           # lets the job commit the refreshed docs back to the repo
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run sync
+        env:
+          ZENDESK_SUBDOMAIN: sidelineswap
+          HELP_CENTER_LOCALE: en-us
+        run: python sync.py
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Sync Help Center $(date -u +%Y-%m-%d)"
+            git push
+          fi
