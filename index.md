@@ -1,6 +1,6 @@
 # SidelineSwap Help Center — Mirror Index
 
-_Auto-generated. 233 published articles. Last synced 2026-08-13 09:18 UTC._
+_Auto-generated. 233 published articles. Last synced 2026-08-14 09:12 UTC._
 
 Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — edit articles there, never here.
 
@@ -365,7 +365,7 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 
 | Article | Labels | Updated | File |
 | --- | --- | --- | --- |
-| [How can I upgrade to expedited shipping?](https://help.sidelineswap.com/hc/en-us/articles/360017556799-How-can-I-upgrade-to-expedited-shipping) | expedite, expedited, overnight, shipping, ship, 2day | 2021-05-18 | `articles/360017556799-how-can-i-upgrade-to-expedited-shipping.md` |
+| [How can I upgrade to expedited shipping?](https://help.sidelineswap.com/hc/en-us/articles/360017556799-How-can-I-upgrade-to-expedited-shipping) | expedite, expedited, overnight, shipping, ship, 2day | 2026-08-13 | `articles/360017556799-how-can-i-upgrade-to-expedited-shipping.md` |
 | [How do I get reimbursed for offline shipping?](https://help.sidelineswap.com/hc/en-us/articles/360010728979-How-do-I-get-reimbursed-for-offline-shipping) |  | 2022-07-12 | `articles/360010728979-how-do-i-get-reimbursed-for-offline-shipping.md` |
 | [How to Avoid Delayed Tracking Scans](https://help.sidelineswap.com/hc/en-us/articles/360010729179-How-to-Avoid-Delayed-Tracking-Scans) |  | 2023-09-28 | `articles/360010729179-how-to-avoid-delayed-tracking-scans.md` |
 | [How to Handle Stolen/Missing Package Claims](https://help.sidelineswap.com/hc/en-us/articles/360010613700-How-to-Handle-Stolen-Missing-Package-Claims) |  | 2023-09-28 | `articles/360010613700-how-to-handle-stolenmissing-package-claims.md` |

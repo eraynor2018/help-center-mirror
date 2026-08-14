@@ -5,16 +5,16 @@ section: Troubleshooting
 section_id: 360003286039
 category: Shipping
 labels: [expedite, expedited, overnight, shipping, ship, 2day]
-updated_at: "2021-05-18T15:32:45Z"
+updated_at: "2026-08-13T20:01:28Z"
 url: "https://help.sidelineswap.com/hc/en-us/articles/360017556799-How-can-I-upgrade-to-expedited-shipping"
 ---
 
 # How can I upgrade to expedited shipping?
 
-While SidelineSwap defaults to the cheapest shipping option at checkout, we can certainly accommodate requests for expedited or overnight shipping.
+Want your gear faster? Choose a faster shipping option at checkout, before you pay. Faster options cost more, since expedited carrier service is more expensive. Pick your shipping preference and you're set.
 
-If you're the buyer, simply make the purchase with the default shipping option. Either before or after you make the purchase, let your seller know that you'd like to upgrade to expedited shipping. Please then reach out to SidelineSwap support with the Swap ID so we can generate a quote for your quicker shipping options.
+Each option shows an estimated delivery date based on the carrier's transit time. Dates are carrier estimates, not guarantees. Carriers can run late, and an expedited label doesn't change that.
 
-Once you've selected an option, we will charge your original payment method for the difference in the cost of the new label and let your seller know that the updated label is available to print from the swap page.
+If a package doesn't arrive at all, that's a different situation from a slow delivery. If tracking shows that the package is not delivered to you, you’ll be refunded no questions asked.
 
-If you're the seller, please have your buyer make the purchase with the default shipping option and follow the remaining steps above.
+Selling? Your buyer picks the speed at checkout. Print the label from your swap page and ship like any other order.
