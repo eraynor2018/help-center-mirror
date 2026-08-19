@@ -1,7 +1,7 @@
 ---
 id: 19057747361820
 title: "RESOLVED: 11/18/25 Shipping Label Issues"
-section: "RESOLVED: 11/18 Shipping Label Issues"
+section: 8/18 Site Outage - RESOLVED
 section_id: 18712481236892
 category: SidelineSwap Status Updates
 labels: []
