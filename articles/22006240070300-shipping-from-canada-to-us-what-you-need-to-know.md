@@ -5,7 +5,7 @@ section: Shipping
 section_id: 360003193519
 category: Selling
 labels: [duty, customs, canada post, UPS, tariff, trump]
-updated_at: "2026-05-28T16:42:31Z"
+updated_at: "2026-08-24T20:03:36Z"
 url: "https://help.sidelineswap.com/hc/en-us/articles/22006240070300-Shipping-from-Canada-to-US-What-You-Need-to-Know"
 ---
 
@@ -14,6 +14,12 @@ url: "https://help.sidelineswap.com/hc/en-us/articles/22006240070300-Shipping-fr
 SidelineSwap supports shipping from Canadian sellers to U.S. buyers through Chit Chats and FedEx.
 
 All SidelineSwap-supported Canada to U.S. shipments are sent Delivered Duty Paid, also known as DDP. This means any applicable tariff or import fee is paid up front, so the buyer should not be asked to pay tariff fees when the package is delivered.
+
+**If you use a SidelineSwap shipping label**  
+SidelineSwap will calculate applicable tariffs as part of the transaction based on the information provided on the listing.
+
+**If you use your own shipping label**  
+We know many Canadian sellers use their own labels. These shipments must be sent **DDP (Delivered Duty Paid)**, meaning any applicable tariff must be paid upfront.
 
 ## **Supported carriers**
 

@@ -5,7 +5,7 @@ section: Shipping
 section_id: 360003193519
 category: Selling
 labels: []
-updated_at: "2026-05-28T16:42:01Z"
+updated_at: "2026-08-24T20:03:28Z"
 url: "https://help.sidelineswap.com/hc/en-us/articles/22124355926812-Tariffs-on-Canada-to-U-S-Shipments"
 ---
 
@@ -14,6 +14,12 @@ url: "https://help.sidelineswap.com/hc/en-us/articles/22124355926812-Tariffs-on-
 The U.S. eliminated its $800 de minimis exemption on August 29, 2025. As a result, shipments from Canada to the U.S. may be subject to tariffs or import fees, regardless of order value.
 
 For SidelineSwap-supported Canada to U.S. shipments, any applicable tariff cost is paid up front. These shipments are sent Delivered Duty Paid, also known as DDP.
+
+**If you use a SidelineSwap shipping label**  
+SidelineSwap will calculate applicable tariffs as part of the transaction based on the information provided on the listing.
+
+**If you use your own shipping label**  
+We know many Canadian sellers use their own labels. These shipments must be sent **DDP (Delivered Duty Paid)**, meaning any applicable tariff must be paid upfront.
 
 ## **Which carriers does SidelineSwap use?**
 

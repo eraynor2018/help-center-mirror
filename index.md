@@ -1,6 +1,6 @@
 # SidelineSwap Help Center — Mirror Index
 
-_Auto-generated. 234 published articles. Last synced 2026-08-24 08:54 UTC._
+_Auto-generated. 234 published articles. Last synced 2026-08-25 08:50 UTC._
 
 Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — edit articles there, never here.
 
@@ -287,8 +287,8 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 | [How to Print a Shipping Label](https://help.sidelineswap.com/hc/en-us/articles/360010255540-How-to-Print-a-Shipping-Label) |  | 2023-09-19 | `articles/360010255540-how-to-print-a-shipping-label.md` |
 | [How to set your own shipping cost](https://help.sidelineswap.com/hc/en-us/articles/4873501778204-How-to-set-your-own-shipping-cost) |  | 2023-08-17 | `articles/4873501778204-how-to-set-your-own-shipping-cost.md` |
 | [How to Ship Outside North America](https://help.sidelineswap.com/hc/en-us/articles/360010255500-How-to-Ship-Outside-North-America) |  | 2023-09-19 | `articles/360010255500-how-to-ship-outside-north-america.md` |
-| [Shipping from Canada to US: What You Need to Know](https://help.sidelineswap.com/hc/en-us/articles/22006240070300-Shipping-from-Canada-to-US-What-You-Need-to-Know) | duty, customs, canada post, UPS, tariff, trump | 2026-05-28 | `articles/22006240070300-shipping-from-canada-to-us-what-you-need-to-know.md` |
-| [Tariffs on Canada to U.S. Shipments](https://help.sidelineswap.com/hc/en-us/articles/22124355926812-Tariffs-on-Canada-to-U-S-Shipments) |  | 2026-05-28 | `articles/22124355926812-tariffs-on-canada-to-us-shipments.md` |
+| [Shipping from Canada to US: What You Need to Know](https://help.sidelineswap.com/hc/en-us/articles/22006240070300-Shipping-from-Canada-to-US-What-You-Need-to-Know) | duty, customs, canada post, UPS, tariff, trump | 2026-08-24 | `articles/22006240070300-shipping-from-canada-to-us-what-you-need-to-know.md` |
+| [Tariffs on Canada to U.S. Shipments](https://help.sidelineswap.com/hc/en-us/articles/22124355926812-Tariffs-on-Canada-to-U-S-Shipments) |  | 2026-08-24 | `articles/22124355926812-tariffs-on-canada-to-us-shipments.md` |
 | [What Does Swap "Under Review" Mean?](https://help.sidelineswap.com/hc/en-us/articles/360010255520-What-Does-Swap-Under-Review-Mean) |  | 2023-09-28 | `articles/360010255520-what-does-swap-under-review-mean.md` |
 | [What happens if I accidentally shipped the wrong item?](https://help.sidelineswap.com/hc/en-us/articles/360010361499-What-happens-if-I-accidentally-shipped-the-wrong-item) |  | 2020-10-16 | `articles/360010361499-what-happens-if-i-accidentally-shipped-the-wrong-item.md` |
 | [Who pays for shipping?](https://help.sidelineswap.com/hc/en-us/articles/360010361519-Who-pays-for-shipping) |  | 2022-05-02 | `articles/360010361519-who-pays-for-shipping.md` |
