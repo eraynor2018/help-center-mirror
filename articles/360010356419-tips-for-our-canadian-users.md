@@ -5,7 +5,7 @@ section: My Account
 section_id: 360003151600
 category: Managing My Account
 labels: []
-updated_at: "2025-11-03T21:42:30Z"
+updated_at: "2026-09-08T17:55:40Z"
 url: "https://help.sidelineswap.com/hc/en-us/articles/360010356419-Tips-for-our-Canadian-Users"
 ---
 
@@ -13,19 +13,19 @@ url: "https://help.sidelineswap.com/hc/en-us/articles/360010356419-Tips-for-our-
 
 As you've probably noticed, SidelineSwap supports Canadian Buyers AND Sellers. Here are a few helpful tips while we continue to work on ways to better serve you. We welcome your feedback if there is anything we can do to make your experience on SidelineSwap better. 
 
+Canada's new tariffs on US goods changed what Canadian buyers can purchase from US sellers — start with the first tip below.
+
 #### Buying:
 
 1. *Browsing Canadian Only Items:* You can buy from US users and still expect great deals, but buying from fellow Canadians is the best way to ensure the lowest shipping prices. On the left side of any results page, you can filter by Seller Location and select [“Ships From: Canada.”](https://sidelineswap.com/search?ships_from%5B%5D=ca) Items also have a country flag on the right-hand side to indicate where it is shipping from. Below are 5 of our best Canadian Sellers, and a link to all Canadian results.
-
-* Pro Stock Hockey Sticks: <https://sidelineswap.com/HSelect09>
-* Pro Stock Hockey Equipment: <https://sidelineswap.com/BackdoorSports>
-* Multi-Sport: <https://sidelineswap.com/spoex>
-* Multi-Sport: <https://sidelineswap.com/PeranisHockey>
-* Pro Stock Hockey Sticks: <https://sidelineswap.com/HockeyOnSale>
-* [All Results](https://sidelineswap.com/search?ships_from%5B%5D=ca)
-
-1. *Currency:* All prices on SidelineSwap are in USD (we’re working on that). You can browse in CAD by clicking [here](https://help.sidelineswap.com/hc/en-us/articles/360010269540-How-to-Browse-in-CAD). Even with the exchange rate, you are sure to find great deals.
-2. *Taxes and Duty:* When buying from the US, not all packages are subject to duty as they are used and some fall outside taxable categories. However, Buyers are responsible for paying any import fees, usually as part of clearing their parcel through customs or when they receive their item. Learn more [here](https://help.sidelineswap.com/shipping/shipping-essentials/importduty-fees).
+   1. Pro Stock Hockey Sticks: <https://sidelineswap.com/HSelect09>
+   2. Pro Stock Hockey Equipment: <https://sidelineswap.com/BackdoorSports>
+   3. Multi-Sport: <https://sidelineswap.com/spoex>
+   4. Multi-Sport: <https://sidelineswap.com/PeranisHockey>
+   5. Pro Stock Hockey Sticks: <https://sidelineswap.com/HockeyOnSale>
+   6. [All Results](https://sidelineswap.com/search?ships_from%5B%5D=ca)
+2. *Buying from US sellers:* As of September 8, 2026, Canada's tariffs on US goods mean many items from US sellers can't be shipped to Canada. If an item shows no shipping options at checkout, that's why — [more detail here](#). Categories not on Canada's tariff list are still available, and where a purchase does go through, you're responsible for any import fees charged when the parcel clears customs.
+3. *Currency:* All prices on SidelineSwap are in USD (we’re working on that). You can browse in CAD by clicking [here](https://help.sidelineswap.com/hc/en-us/articles/360010269540-How-to-Browse-in-CAD). Even with the exchange rate, you are sure to find great deals.
 
 Selling: 
 

@@ -1,6 +1,6 @@
 # SidelineSwap Help Center — Mirror Index
 
-_Auto-generated. 234 published articles. Last synced 2026-09-08 12:46 UTC._
+_Auto-generated. 233 published articles. Last synced 2026-09-09 12:51 UTC._
 
 Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — edit articles there, never here.
 
@@ -37,7 +37,7 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 | [How to buy with site credit](https://help.sidelineswap.com/hc/en-us/articles/360013147939-How-to-buy-with-site-credit) |  | 2020-12-09 | `articles/360013147939-how-to-buy-with-site-credit.md` |
 | [How to Confirm a Purchase and Leave Feedback](https://help.sidelineswap.com/hc/en-us/articles/360010256140-How-to-Confirm-a-Purchase-and-Leave-Feedback) |  | 2023-09-14 | `articles/360010256140-how-to-confirm-a-purchase-and-leave-feedback.md` |
 | [How to Make an Offer](https://help.sidelineswap.com/hc/en-us/articles/360010256160-How-to-Make-an-Offer) |  | 2023-09-14 | `articles/360010256160-how-to-make-an-offer.md` |
-| [International Shipments](https://help.sidelineswap.com/hc/en-us/articles/360019393859-International-Shipments) | international, international purchase, customs, delays | 2025-05-20 | `articles/360019393859-international-shipments.md` |
+| [International Shipments](https://help.sidelineswap.com/hc/en-us/articles/360019393859-International-Shipments) | international, international purchase, customs, delays | 2026-09-08 | `articles/360019393859-international-shipments.md` |
 | [Shipping Costs for Buyers](https://help.sidelineswap.com/hc/en-us/articles/360010362079-Shipping-Costs-for-Buyers) |  | 2020-07-24 | `articles/360010362079-shipping-costs-for-buyers.md` |
 | [What is Return Assurance powered by Seel?](https://help.sidelineswap.com/hc/en-us/articles/10714161709212-What-is-Return-Assurance-powered-by-Seel) |  | 2025-12-16 | `articles/10714161709212-what-is-return-assurance-powered-by-seel.md` |
 | [Where can I find a receipt for my purchase?](https://help.sidelineswap.com/hc/en-us/articles/360019049359-Where-can-I-find-a-receipt-for-my-purchase) | receipt, payment receipt | 2021-01-22 | `articles/360019049359-where-can-i-find-a-receipt-for-my-purchase.md` |
@@ -135,7 +135,7 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 | Article | Labels | Updated | File |
 | --- | --- | --- | --- |
 | [Do I ever need to buy a gift card to sell something on SidelineSwap?](https://help.sidelineswap.com/hc/en-us/articles/9827092755996-Do-I-ever-need-to-buy-a-gift-card-to-sell-something-on-SidelineSwap) | email, vanilla, gift card, activate, scam, instant payment, razor gold | 2023-08-01 | `articles/9827092755996-do-i-ever-need-to-buy-a-gift-card-to-sell-something-on-sidel.md` |
-| [How to Buy and Sell Internationally](https://help.sidelineswap.com/hc/en-us/articles/360016895799-How-to-Buy-and-Sell-Internationally) |  | 2023-09-19 | `articles/360016895799-how-to-buy-and-sell-internationally.md` |
+| [How to Buy and Sell Internationally](https://help.sidelineswap.com/hc/en-us/articles/360016895799-How-to-Buy-and-Sell-Internationally) |  | 2026-09-08 | `articles/360016895799-how-to-buy-and-sell-internationally.md` |
 | [What is SidelineSwap's return policy?](https://help.sidelineswap.com/hc/en-us/articles/15181494265372-What-is-SidelineSwap-s-return-policy) | return, refund, return policy, returns, policy, protection, buyer protection, cancel, cancellation, Seel | 2024-07-30 | `articles/15181494265372-what-is-sidelineswaps-return-policy.md` |
 | [What is SidelineSwap’s refund policy?](https://help.sidelineswap.com/hc/en-us/articles/15181519655196-What-is-SidelineSwap-s-refund-policy) | return, refund, payment, policy, cancel, cancellation, refunds, refund policy, never ships | 2024-07-30 | `articles/15181519655196-what-is-sidelineswaps-refund-policy.md` |
 
@@ -158,7 +158,7 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 | [My email or phone number is "already in use" ](https://help.sidelineswap.com/hc/en-us/articles/27306287679132-My-email-or-phone-number-is-already-in-use) |  | 2026-05-07 | `articles/27306287679132-my-email-or-phone-number-is-already-in-use.md` |
 | [North Carolina Sales Tax Reporting](https://help.sidelineswap.com/hc/en-us/articles/360011738399-North-Carolina-Sales-Tax-Reporting) |  | 2020-07-22 | `articles/360011738399-north-carolina-sales-tax-reporting.md` |
 | [SidelineSwap Badges](https://help.sidelineswap.com/hc/en-us/articles/360010356479-SidelineSwap-Badges) |  | 2025-07-16 | `articles/360010356479-sidelineswap-badges.md` |
-| [Tips for our Canadian Users](https://help.sidelineswap.com/hc/en-us/articles/360010356419-Tips-for-our-Canadian-Users) |  | 2025-11-03 | `articles/360010356419-tips-for-our-canadian-users.md` |
+| [Tips for our Canadian Users](https://help.sidelineswap.com/hc/en-us/articles/360010356419-Tips-for-our-Canadian-Users) |  | 2026-09-08 | `articles/360010356419-tips-for-our-canadian-users.md` |
 | [U.S. Small Business Administration Disaster Relief](https://help.sidelineswap.com/hc/en-us/articles/360012623059-U-S-Small-Business-Administration-Disaster-Relief) |  | 2020-05-12 | `articles/360012623059-us-small-business-administration-disaster-relief.md` |
 | [Using "Favorites" for Saved Searches, Lockers, and Items](https://help.sidelineswap.com/hc/en-us/articles/360010269200-Using-Favorites-for-Saved-Searches-Lockers-and-Items) |  | 2025-04-17 | `articles/360010269200-using-favorites-for-saved-searches-lockers-and-items.md` |
 | [W9/1099-K for tax year 2024](https://help.sidelineswap.com/hc/en-us/articles/12030909715356-W9-1099-K-for-tax-year-2024) | w9, tax, disabled, 1099, taxes, cashout, form, 2024 | 2024-10-08 | `articles/12030909715356-w91099-k-for-tax-year-2024.md` |
@@ -286,7 +286,6 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 | --- | --- | --- | --- |
 | [How to Print a Shipping Label](https://help.sidelineswap.com/hc/en-us/articles/360010255540-How-to-Print-a-Shipping-Label) |  | 2023-09-19 | `articles/360010255540-how-to-print-a-shipping-label.md` |
 | [How to set your own shipping cost](https://help.sidelineswap.com/hc/en-us/articles/4873501778204-How-to-set-your-own-shipping-cost) |  | 2023-08-17 | `articles/4873501778204-how-to-set-your-own-shipping-cost.md` |
-| [How to Ship Outside North America](https://help.sidelineswap.com/hc/en-us/articles/360010255500-How-to-Ship-Outside-North-America) |  | 2023-09-19 | `articles/360010255500-how-to-ship-outside-north-america.md` |
 | [Shipping from Canada to US: What You Need to Know](https://help.sidelineswap.com/hc/en-us/articles/22006240070300-Shipping-from-Canada-to-US-What-You-Need-to-Know) | duty, customs, canada post, UPS, tariff, trump | 2026-08-24 | `articles/22006240070300-shipping-from-canada-to-us-what-you-need-to-know.md` |
 | [Tariffs on Canada to U.S. Shipments](https://help.sidelineswap.com/hc/en-us/articles/22124355926812-Tariffs-on-Canada-to-U-S-Shipments) |  | 2026-08-24 | `articles/22124355926812-tariffs-on-canada-to-us-shipments.md` |
 | [What Does Swap "Under Review" Mean?](https://help.sidelineswap.com/hc/en-us/articles/360010255520-What-Does-Swap-Under-Review-Mean) |  | 2023-09-28 | `articles/360010255520-what-does-swap-under-review-mean.md` |
@@ -338,7 +337,7 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 | [How long do I have to ship?](https://help.sidelineswap.com/hc/en-us/articles/360010375119-How-long-do-I-have-to-ship) |  | 2020-10-05 | `articles/360010375119-how-long-do-i-have-to-ship.md` |
 | [How to Track USPS International Packages](https://help.sidelineswap.com/hc/en-us/articles/360010375099-How-to-Track-USPS-International-Packages) |  | 2023-09-28 | `articles/360010375099-how-to-track-usps-international-packages.md` |
 | [Shipping Regions on SidelineSwap](https://help.sidelineswap.com/hc/en-us/articles/360010374979-Shipping-Regions-on-SidelineSwap) |  | 2023-08-17 | `articles/360010374979-shipping-regions-on-sidelineswap.md` |
-| [Understanding Tariffs and Import Fees for International Purchases](https://help.sidelineswap.com/hc/en-us/articles/360010265100-Understanding-Tariffs-and-Import-Fees-for-International-Purchases) | duty, duty fee, held at post office, collect on delivery, COD | 2026-05-28 | `articles/360010265100-understanding-tariffs-and-import-fees-for-international-purc.md` |
+| [Understanding Tariffs and Import Fees for International Purchases](https://help.sidelineswap.com/hc/en-us/articles/360010265100-Understanding-Tariffs-and-Import-Fees-for-International-Purchases) | duty, duty fee, held at post office, collect on delivery, COD | 2026-09-08 | `articles/360010265100-understanding-tariffs-and-import-fees-for-international-purc.md` |
 
 ### Shipping FAQs
 

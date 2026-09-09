@@ -5,7 +5,7 @@ section: Shipping Essentials
 section_id: 360003197539
 category: Shipping
 labels: [duty, duty fee, held at post office, collect on delivery, COD]
-updated_at: "2026-05-28T16:40:52Z"
+updated_at: "2026-09-08T17:59:24Z"
 url: "https://help.sidelineswap.com/hc/en-us/articles/360010265100-Understanding-Tariffs-and-Import-Fees-for-International-Purchases"
 ---
 
@@ -28,6 +28,16 @@ Tariff costs depend on factors such as:
 * Any applicable tariffs, duties, or trade restrictions
 
 Goods made in the U.S., Canada, or Mexico may qualify for tariff-free treatment under USMCA when the proper information is provided. However, USMCA treatment is not automatic and depends on the item’s country of manufacture, classification, and documentation.
+
+## **If you're importing into Canada**
+
+Canada applied counter-tariffs to a wide range of US goods effective 12:01 a.m. on September 8, 2026.
+
+Because of this, many items shipping from US sellers can no longer be shipped to Canadian addresses. If you're a Canadian buyer and an item shows no shipping options at checkout, this is why.
+
+* It's based on where the item ships from, not where it was manufactured.
+* Canada's list doesn't cover every category, so some items from US sellers are still available.
+* Items shipping from Canadian sellers are not affected.
 
 ## **Canada to U.S. purchases on SidelineSwap**
 
