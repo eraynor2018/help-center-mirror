@@ -1,6 +1,6 @@
 # SidelineSwap Help Center — Mirror Index
 
-_Auto-generated. 233 published articles. Last synced 2026-09-10 12:49 UTC._
+_Auto-generated. 233 published articles. Last synced 2026-09-11 12:44 UTC._
 
 Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — edit articles there, never here.
 
@@ -47,7 +47,7 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 
 | Article | Labels | Updated | File |
 | --- | --- | --- | --- |
-| [How to Buy Now, Pay Later with Sezzle on SidelineSwap](https://help.sidelineswap.com/hc/en-us/articles/26536597830044-How-to-Buy-Now-Pay-Later-with-Sezzle-on-SidelineSwap) |  | 2026-05-21 | `articles/26536597830044-how-to-buy-now-pay-later-with-sezzle-on-sidelineswap.md` |
+| [How to Buy Now, Pay Later with Sezzle on SidelineSwap](https://help.sidelineswap.com/hc/en-us/articles/26536597830044-How-to-Buy-Now-Pay-Later-with-Sezzle-on-SidelineSwap) |  | 2026-09-10 | `articles/26536597830044-how-to-buy-now-pay-later-with-sezzle-on-sidelineswap.md` |
 | [How to Find Your CVV & CVC](https://help.sidelineswap.com/hc/en-us/articles/360010362199-How-to-Find-Your-CVV-CVC) |  | 2023-09-14 | `articles/360010362199-how-to-find-your-cvv-cvc.md` |
 | [How to Purchase with Venmo](https://help.sidelineswap.com/hc/en-us/articles/9278153969820-How-to-Purchase-with-Venmo) |  | 2023-09-14 | `articles/9278153969820-how-to-purchase-with-venmo.md` |
 | [How to Use PayPal](https://help.sidelineswap.com/hc/en-us/articles/360010256180-How-to-Use-PayPal) |  | 2023-09-19 | `articles/360010256180-how-to-use-paypal.md` |

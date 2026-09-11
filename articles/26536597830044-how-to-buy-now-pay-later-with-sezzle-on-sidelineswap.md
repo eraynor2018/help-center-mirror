@@ -5,24 +5,26 @@ section: Payment Methods
 section_id: 360003151780
 category: Buying
 labels: []
-updated_at: "2026-05-21T20:02:40Z"
+updated_at: "2026-09-10T16:06:22Z"
 url: "https://help.sidelineswap.com/hc/en-us/articles/26536597830044-How-to-Buy-Now-Pay-Later-with-Sezzle-on-SidelineSwap"
 ---
 
 # How to Buy Now, Pay Later with Sezzle on SidelineSwap
 
+![Pay Later No Hassle 728x90 banner](https://media.sezzle.com/img/Merchant_Marketing_PayLaterNoHassle-Dark-728x90_v2.png)
+
 Sezzle is a buy now, pay later platform that lets you split your SidelineSwap purchase over time.
 
 **How It Works**
 
-![Screenshot 2026-05-21 at 7.30.46 AM.png](https://help.sidelineswap.com/hc/article_attachments/27617981843356)
-
 1. Choose Sezzle as your payment method at checkout.
 2. No long forms or hard credit checks required — Sezzle uses their own approval process and gives you an instant decision.
-3. Your first payment (25% of the total) is due at the time of purchase.
-4. The remaining 3 payments are automatically charged every 2 weeks.
+3. Your first payment is due at the time of purchase.
+4. The remaining payments are automatically charged every 2 weeks.
 
-![Screenshot 2026-05-21 at 7.30.35 AM.png](https://help.sidelineswap.com/hc/article_attachments/27617981845148)
+Sezzle offers flexible payment plans including a pay in 5 option.
+
+![](https://help.sidelineswap.com/hc/article_attachments/30218150137372)
 
 1 Pay later loans are originated by WebBank or Sezzle. Refer to your loan agreement for lender information. For example, for a $300 loan Pay in 4, you would make one $75 down payment today, then three $75 payments every two weeks for a 45.0% annual percentage rate (APR) and a total of payments of $307.49 which includes a $7.49 Service Fee (finance charge) charged at loan origination. Service fees vary and can range from $0 to $7.49 depending on the purchase price and Sezzle product. Actual fees are reflected in checkout.
 
