@@ -5,7 +5,7 @@ section: Shipping FAQs
 section_id: 360003154760
 category: Shipping
 labels: [insure, insurance, insuring, insured, claim, lost]
-updated_at: "2026-04-29T17:03:30Z"
+updated_at: "2026-09-21T15:28:25Z"
 url: "https://help.sidelineswap.com/hc/en-us/articles/9098057556892-How-to-Insure-your-Items"
 ---
 
@@ -17,7 +17,7 @@ If you'd like to insure your item, simply look for the "Add Worry-Free Delivery"
 
 ![Frame_13.png](https://help.sidelineswap.com/hc/article_attachments/9097980312860)
 
-Insurance costs 1% of the price of your item, so if you list something for $100, $1 will come out of your earnings from the sale for insurance. *You are not charged until you make a sale*.
+Insurance costs 1.5% of the price of your item, so if you list something for $100, $1.50 will come out of your earnings from the sale for insurance. *You are not charged until you make a sale*.
 
 Please note certain terms and conditions do apply:
 

@@ -1,6 +1,6 @@
 # SidelineSwap Help Center — Mirror Index
 
-_Auto-generated. 233 published articles. Last synced 2026-09-21 14:59 UTC._
+_Auto-generated. 233 published articles. Last synced 2026-09-22 13:17 UTC._
 
 Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — edit articles there, never here.
 
@@ -349,7 +349,7 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 | [How to do an in-person swap](https://help.sidelineswap.com/hc/en-us/articles/360013870979-How-to-do-an-in-person-swap) | in person, meet up, exchange, near, local, locally, pick up, personally, close | 2024-01-30 | `articles/360013870979-how-to-do-an-in-person-swap.md` |
 | [How to File a Claim for an Insured Item](https://help.sidelineswap.com/hc/en-us/articles/9098202157596-How-to-File-a-Claim-for-an-Insured-Item) | insure, insurance, insured | 2026-04-29 | `articles/9098202157596-how-to-file-a-claim-for-an-insured-item.md` |
 | [How to Generate a Scan Sheet](https://help.sidelineswap.com/hc/en-us/articles/4585648560540-How-to-Generate-a-Scan-Sheet) | usps, print, bulk, scan, sheet, bulk print, scan sheet | 2022-03-31 | `articles/4585648560540-how-to-generate-a-scan-sheet.md` |
-| [How to Insure your Items](https://help.sidelineswap.com/hc/en-us/articles/9098057556892-How-to-Insure-your-Items) | insure, insurance, insuring, insured, claim, lost | 2026-04-29 | `articles/9098057556892-how-to-insure-your-items.md` |
+| [How to Insure your Items](https://help.sidelineswap.com/hc/en-us/articles/9098057556892-How-to-Insure-your-Items) | insure, insurance, insuring, insured, claim, lost | 2026-09-21 | `articles/9098057556892-how-to-insure-your-items.md` |
 | [How to Ship on SidelineSwap](https://help.sidelineswap.com/hc/en-us/articles/360010265220-How-to-Ship-on-SidelineSwap) |  | 2022-02-25 | `articles/360010265220-how-to-ship-on-sidelineswap.md` |
 | [How to ship with your own shipping label](https://help.sidelineswap.com/hc/en-us/articles/4411935113362-How-to-ship-with-your-own-shipping-label) | address, new label, my own, shipped on my own, not accepted, usps, new tracking, tracking number, shipped, printer, on my own, business account, print | 2022-12-16 | `articles/4411935113362-how-to-ship-with-your-own-shipping-label.md` |
 | [How to Update your Shipment](https://help.sidelineswap.com/hc/en-us/articles/7005628639132-How-to-Update-your-Shipment) | label, address, tracking, print, update, number | 2022-12-16 | `articles/7005628639132-how-to-update-your-shipment.md` |
