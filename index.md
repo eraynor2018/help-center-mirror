@@ -1,6 +1,6 @@
 # SidelineSwap Help Center — Mirror Index
 
-_Auto-generated. 233 published articles. Last synced 2026-09-29 14:45 UTC._
+_Auto-generated. 232 published articles. Last synced 2026-09-30 14:48 UTC._
 
 Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — edit articles there, never here.
 
@@ -376,9 +376,8 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 
 ## SidelineSwap Status Updates
 
-### 8/18 Site Outage - RESOLVED
+### Items not appearing in sellers lockers
 
 | Article | Labels | Updated | File |
 | --- | --- | --- | --- |
-| [RESOLVED: 11/18/25 Shipping Label Issues](https://help.sidelineswap.com/hc/en-us/articles/19057747361820-RESOLVED-11-18-25-Shipping-Label-Issues) |  | 2025-11-19 | `articles/19057747361820-resolved-111825-shipping-label-issues.md` |
-| [RESOLVED: 8/18 Site Outage](https://help.sidelineswap.com/hc/en-us/articles/29684597582748-RESOLVED-8-18-Site-Outage) |  | 2026-08-18 | `articles/29684597582748-resolved-818-site-outage.md` |
+| [Why don't I see all my items in my locker?](https://help.sidelineswap.com/hc/en-us/articles/30695276630300-Why-don-t-I-see-all-my-items-in-my-locker) |  | 2026-09-30 | `articles/30695276630300-why-dont-i-see-all-my-items-in-my-locker.md` |

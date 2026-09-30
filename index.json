@@ -1,7 +1,7 @@
 {
   "source": "help.sidelineswap.com",
-  "generated_at": "2026-09-29T14:45:24.453771+00:00",
-  "article_count": 233,
+  "generated_at": "2026-09-30T14:48:22.514565+00:00",
+  "article_count": 232,
   "articles": [
     {
       "id": 360010255880,
@@ -1922,26 +1922,6 @@
       "file": "articles/360010270160-press-inquiries.md"
     },
     {
-      "id": 19057747361820,
-      "title": "RESOLVED: 11/18/25 Shipping Label Issues",
-      "section": "8/18 Site Outage - RESOLVED",
-      "category": "SidelineSwap Status Updates",
-      "labels": [],
-      "updated_at": "2025-11-19T13:00:43Z",
-      "url": "https://help.sidelineswap.com/hc/en-us/articles/19057747361820-RESOLVED-11-18-25-Shipping-Label-Issues",
-      "file": "articles/19057747361820-resolved-111825-shipping-label-issues.md"
-    },
-    {
-      "id": 29684597582748,
-      "title": "RESOLVED: 8/18 Site Outage",
-      "section": "8/18 Site Outage - RESOLVED",
-      "category": "SidelineSwap Status Updates",
-      "labels": [],
-      "updated_at": "2026-08-18T18:59:10Z",
-      "url": "https://help.sidelineswap.com/hc/en-us/articles/29684597582748-RESOLVED-8-18-Site-Outage",
-      "file": "articles/29684597582748-resolved-818-site-outage.md"
-    },
-    {
       "id": 360010252480,
       "title": "Restricted Accounts",
       "section": "Troubleshooting",
@@ -2866,6 +2846,16 @@
       "updated_at": "2020-10-05T19:50:25Z",
       "url": "https://help.sidelineswap.com/hc/en-us/articles/360011078140-Why-don-t-I-see-a-shipping-cost",
       "file": "articles/360011078140-why-dont-i-see-a-shipping-cost.md"
+    },
+    {
+      "id": 30695276630300,
+      "title": "Why don't I see all my items in my locker?",
+      "section": "Items not appearing in sellers lockers",
+      "category": "SidelineSwap Status Updates",
+      "labels": [],
+      "updated_at": "2026-09-30T13:18:06Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/30695276630300-Why-don-t-I-see-all-my-items-in-my-locker",
+      "file": "articles/30695276630300-why-dont-i-see-all-my-items-in-my-locker.md"
     },
     {
       "id": 8900184895772,
