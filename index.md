@@ -1,6 +1,6 @@
 # SidelineSwap Help Center — Mirror Index
 
-_Auto-generated. 232 published articles. Last synced 2026-10-26 15:02 UTC._
+_Auto-generated. 242 published articles. Last synced 2026-10-27 14:16 UTC._
 
 Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — edit articles there, never here.
 
@@ -10,6 +10,7 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 
 | Article | Labels | Updated | File |
 | --- | --- | --- | --- |
+| [Do I need an account to buy on SidelineSwap?](https://help.sidelineswap.com/hc/en-us/articles/31337917341212-Do-I-need-an-account-to-buy-on-SidelineSwap) |  | 2026-10-26 | `articles/31337917341212-do-i-need-an-account-to-buy-on-sidelineswap.md` |
 | [How do I request tax exemption on my SidelineSwap account?](https://help.sidelineswap.com/hc/en-us/articles/27253809604508-How-do-I-request-tax-exemption-on-my-SidelineSwap-account) | tax, sales tax, exempt, tax exemption, certificate, tax exempt, exemption | 2026-05-05 | `articles/27253809604508-how-do-i-request-tax-exemption-on-my-sidelineswap-account.md` |
 | [How do returns work?](https://help.sidelineswap.com/hc/en-us/articles/360010362019-How-do-returns-work) | Refund, Return | 2025-11-06 | `articles/360010362019-how-do-returns-work.md` |
 | [How SidelineSwap Product Rankings Work](https://help.sidelineswap.com/hc/en-us/articles/4402828329106-How-SidelineSwap-Product-Rankings-Work) | ranking, product, product ranking, gear expert | 2025-06-11 | `articles/4402828329106-how-sidelineswap-product-rankings-work.md` |
@@ -28,7 +29,9 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 | Article | Labels | Updated | File |
 | --- | --- | --- | --- |
 | [After Making an Offer](https://help.sidelineswap.com/hc/en-us/articles/360010362119-After-Making-an-Offer) |  | 2020-07-24 | `articles/360010362119-after-making-an-offer.md` |
+| [Do I need an account to buy on SidelineSwap?](https://help.sidelineswap.com/hc/en-us/articles/31337917258140-Do-I-need-an-account-to-buy-on-SidelineSwap) |  | 2026-10-26 | `articles/31337917258140-do-i-need-an-account-to-buy-on-sidelineswap.md` |
 | [How Bundling on SidelineSwap Works ](https://help.sidelineswap.com/hc/en-us/articles/360017788600-How-Bundling-on-SidelineSwap-Works) | bundle, multiple, purchase | 2023-09-14 | `articles/360017788600-how-bundling-on-sidelineswap-works.md` |
+| [How do I see my order after checking out as a guest?](https://help.sidelineswap.com/hc/en-us/articles/31337987186716-How-do-I-see-my-order-after-checking-out-as-a-guest) |  | 2026-10-26 | `articles/31337987186716-how-do-i-see-my-order-after-checking-out-as-a-guest.md` |
 | [How My Offer Notifications Work](https://help.sidelineswap.com/hc/en-us/articles/360010361959-How-My-Offer-Notifications-Work) |  | 2023-09-19 | `articles/360010361959-how-my-offer-notifications-work.md` |
 | [How Placing Another Offer Works](https://help.sidelineswap.com/hc/en-us/articles/360010361939-How-Placing-Another-Offer-Works) |  | 2023-09-28 | `articles/360010361939-how-placing-another-offer-works.md` |
 | [How to buy](https://help.sidelineswap.com/hc/en-us/articles/360010256100-How-to-buy) | how do i buy, how to buy | 2023-08-16 | `articles/360010256100-how-to-buy.md` |
@@ -184,10 +187,10 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 | [How to change my phone number](https://help.sidelineswap.com/hc/en-us/articles/11678369214492-How-to-change-my-phone-number) | pin, update, number, change, code, phone, phone number, text, verification, sms | 2024-08-21 | `articles/11678369214492-how-to-change-my-phone-number.md` |
 | [How to change my username](https://help.sidelineswap.com/hc/en-us/articles/4412420211100-How-to-change-my-username) | username, account, wrong username, account name, user ID, change username, change name | 2025-09-03 | `articles/4412420211100-how-to-change-my-username.md` |
 | [How to Report another User or Listing](https://help.sidelineswap.com/hc/en-us/articles/360010269320-How-to-Report-another-User-or-Listing) |  | 2024-08-21 | `articles/360010269320-how-to-report-another-user-or-listing.md` |
-| [I am not receiving a pin when I try to log in](https://help.sidelineswap.com/hc/en-us/articles/4405754325906-I-am-not-receiving-a-pin-when-I-try-to-log-in) | pin, can't log in, not receiving, not receiving pin, never received pin, recognizes, recognizes my device, pin was not sent, did not receive pin, authorize | 2026-05-07 | `articles/4405754325906-i-am-not-receiving-a-pin-when-i-try-to-log-in.md` |
+| [I am not receiving a pin when I try to sign in](https://help.sidelineswap.com/hc/en-us/articles/4405754325906-I-am-not-receiving-a-pin-when-I-try-to-sign-in) | pin, can't log in, not receiving, not receiving pin, never received pin, recognizes, recognizes my device, pin was not sent, did not receive pin, authorize | 2026-10-26 | `articles/4405754325906-i-am-not-receiving-a-pin-when-i-try-to-sign-in.md` |
 | [My Account has been Banned](https://help.sidelineswap.com/hc/en-us/articles/360010379559-My-Account-has-been-Banned) |  | 2020-07-24 | `articles/360010379559-my-account-has-been-banned.md` |
 | [My Account has been Restricted](https://help.sidelineswap.com/hc/en-us/articles/360010379339-My-Account-has-been-Restricted) | restricted, why am i restricted, restriction | 2020-11-14 | `articles/360010379339-my-account-has-been-restricted.md` |
-| [Why am I receiving a pin to log in?](https://help.sidelineswap.com/hc/en-us/articles/360016621320-Why-am-I-receiving-a-pin-to-log-in) |  | 2020-09-23 | `articles/360016621320-why-am-i-receiving-a-pin-to-log-in.md` |
+| [Why am I receiving a pin to sign in?](https://help.sidelineswap.com/hc/en-us/articles/360016621320-Why-am-I-receiving-a-pin-to-sign-in) |  | 2026-10-26 | `articles/360016621320-why-am-i-receiving-a-pin-to-sign-in.md` |
 
 ## Online Trade-In Support
 
@@ -229,9 +232,13 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 
 | Article | Labels | Updated | File |
 | --- | --- | --- | --- |
+| [Can I use a different Offer Autopilot setting on one listing?](https://help.sidelineswap.com/hc/en-us/articles/31337740947740-Can-I-use-a-different-Offer-Autopilot-setting-on-one-listing) |  | 2026-10-26 | `articles/31337740947740-can-i-use-a-different-offer-autopilot-setting-on-one-listing.md` |
 | [How Auto Price Drops Work](https://help.sidelineswap.com/hc/en-us/articles/4412956977938-How-Auto-Price-Drops-Work) |  | 2023-09-19 | `articles/4412956977938-how-auto-price-drops-work.md` |
+| [How can I add notes to a swap?](https://help.sidelineswap.com/hc/en-us/articles/31337996485276-How-can-I-add-notes-to-a-swap) |  | 2026-10-26 | `articles/31337996485276-how-can-i-add-notes-to-a-swap.md` |
 | [How do I re-list (or duplicate) a listing? ](https://help.sidelineswap.com/hc/en-us/articles/360010361179-How-do-I-re-list-or-duplicate-a-listing) |  | 2021-09-17 | `articles/360010361179-how-do-i-re-list-or-duplicate-a-listing.md` |
 | [How do I remove an item?](https://help.sidelineswap.com/hc/en-us/articles/360010361199-How-do-I-remove-an-item) |  | 2021-09-17 | `articles/360010361199-how-do-i-remove-an-item.md` |
+| [How do I send offers automatically when someone favorites my item?](https://help.sidelineswap.com/hc/en-us/articles/31337757310108-How-do-I-send-offers-automatically-when-someone-favorites-my-item) |  | 2026-10-26 | `articles/31337757310108-how-do-i-send-offers-automatically-when-someone-favorites-my.md` |
+| [How does Offer Autopilot work?](https://help.sidelineswap.com/hc/en-us/articles/31337682254748-How-does-Offer-Autopilot-work) |  | 2026-10-26 | `articles/31337682254748-how-does-offer-autopilot-work.md` |
 | [How to Add More Photos of an Item](https://help.sidelineswap.com/hc/en-us/articles/360010361299-How-to-Add-More-Photos-of-an-Item) |  | 2023-09-14 | `articles/360010361299-how-to-add-more-photos-of-an-item.md` |
 | [How to Bulk Update Listings on iOS](https://help.sidelineswap.com/hc/en-us/articles/4428999546780-How-to-Bulk-Update-Listings-on-iOS) | bump, price drop, bulk actions, bulk, actions, update, bulk update, edit | 2023-09-15 | `articles/4428999546780-how-to-bulk-update-listings-on-ios.md` |
 | [How to Bundle](https://help.sidelineswap.com/hc/en-us/articles/360010361159-How-to-Bundle) | ship, bundle, multiple, buyer, box, combined, bundles, combine, package, bundled | 2023-02-08 | `articles/360010361159-how-to-bundle.md` |
@@ -249,6 +256,7 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 | [What is the Definition of a "New" Item?](https://help.sidelineswap.com/hc/en-us/articles/360010361259-What-is-the-Definition-of-a-New-Item) |  | 2023-09-28 | `articles/360010361259-what-is-the-definition-of-a-new-item.md` |
 | [What Items You Can Sell](https://help.sidelineswap.com/hc/en-us/articles/360010255360-What-Items-You-Can-Sell) |  | 2020-07-24 | `articles/360010255360-what-items-you-can-sell.md` |
 | [Where to Find Received Offers](https://help.sidelineswap.com/hc/en-us/articles/360010255320-Where-to-Find-Received-Offers) |  | 2020-08-17 | `articles/360010255320-where-to-find-received-offers.md` |
+| [Why isn't my swap note printing?](https://help.sidelineswap.com/hc/en-us/articles/31338053069468-Why-isn-t-my-swap-note-printing) |  | 2026-10-26 | `articles/31338053069468-why-isnt-my-swap-note-printing.md` |
 
 ### Other Selling Programs
 
@@ -265,7 +273,9 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 | --- | --- | --- | --- |
 | [How are Sellers Protected on SidelineSwap?](https://help.sidelineswap.com/hc/en-us/articles/360010360959-How-are-Sellers-Protected-on-SidelineSwap) |  | 2023-09-15 | `articles/360010360959-how-are-sellers-protected-on-sidelineswap.md` |
 | [How Automated Feedback Works](https://help.sidelineswap.com/hc/en-us/articles/360010361079-How-Automated-Feedback-Works) |  | 2023-09-19 | `articles/360010361079-how-automated-feedback-works.md` |
+| [How can I add notes to a swap?](https://help.sidelineswap.com/hc/en-us/articles/31337968331548-How-can-I-add-notes-to-a-swap) |  | 2026-10-26 | `articles/31337968331548-how-can-i-add-notes-to-a-swap.md` |
 | [How Can I Block a User? ](https://help.sidelineswap.com/hc/en-us/articles/4406888153874-How-Can-I-Block-a-User) | block user, block, user, mute | 2023-09-15 | `articles/4406888153874-how-can-i-block-a-user.md` |
+| [How does Offer Autopilot work?](https://help.sidelineswap.com/hc/en-us/articles/31337707983516-How-does-Offer-Autopilot-work) |  | 2026-10-26 | `articles/31337707983516-how-does-offer-autopilot-work.md` |
 | [How to cash out](https://help.sidelineswap.com/hc/en-us/articles/360010255240-How-to-cash-out) |  | 2022-03-02 | `articles/360010255240-how-to-cash-out.md` |
 | [How to Counteroffer](https://help.sidelineswap.com/hc/en-us/articles/360016454459-How-to-Counteroffer) |  | 2023-09-14 | `articles/360016454459-how-to-counteroffer.md` |
 | [How to Package My Item](https://help.sidelineswap.com/hc/en-us/articles/360010361039-How-to-Package-My-Item) |  | 2023-09-19 | `articles/360010361039-how-to-package-my-item.md` |

@@ -1,7 +1,7 @@
 {
   "source": "help.sidelineswap.com",
-  "generated_at": "2026-10-26T15:02:47.725940+00:00",
-  "article_count": 232,
+  "generated_at": "2026-10-27T14:16:54.966812+00:00",
+  "article_count": 242,
   "articles": [
     {
       "id": 360010255880,
@@ -107,6 +107,16 @@
       "file": "articles/15376701107228-can-i-return-my-item.md"
     },
     {
+      "id": 31337740947740,
+      "title": "Can I use a different Offer Autopilot setting on one listing?",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2026-10-26T18:56:30Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/31337740947740-Can-I-use-a-different-Offer-Autopilot-setting-on-one-listing",
+      "file": "articles/31337740947740-can-i-use-a-different-offer-autopilot-setting-on-one-listing.md"
+    },
+    {
       "id": 360010361839,
       "title": "Canadian Bank Cashouts",
       "section": "Cashing Out",
@@ -163,6 +173,26 @@
       "updated_at": "2023-08-01T16:09:49Z",
       "url": "https://help.sidelineswap.com/hc/en-us/articles/9827092755996-Do-I-ever-need-to-buy-a-gift-card-to-sell-something-on-SidelineSwap",
       "file": "articles/9827092755996-do-i-ever-need-to-buy-a-gift-card-to-sell-something-on-sidel.md"
+    },
+    {
+      "id": 31337917341212,
+      "title": "Do I need an account to buy on SidelineSwap?",
+      "section": "Buyer FAQs",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2026-10-26T19:07:16Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/31337917341212-Do-I-need-an-account-to-buy-on-SidelineSwap",
+      "file": "articles/31337917341212-do-i-need-an-account-to-buy-on-sidelineswap.md"
+    },
+    {
+      "id": 31337917258140,
+      "title": "Do I need an account to buy on SidelineSwap?",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2026-10-26T19:07:15Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/31337917258140-Do-I-need-an-account-to-buy-on-SidelineSwap",
+      "file": "articles/31337917258140-do-i-need-an-account-to-buy-on-sidelineswap.md"
     },
     {
       "id": 360018134340,
@@ -267,6 +297,26 @@
       "updated_at": "2023-09-14T15:36:36Z",
       "url": "https://help.sidelineswap.com/hc/en-us/articles/360017788600-How-Bundling-on-SidelineSwap-Works",
       "file": "articles/360017788600-how-bundling-on-sidelineswap-works.md"
+    },
+    {
+      "id": 31337996485276,
+      "title": "How can I add notes to a swap?",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2026-10-26T19:10:59Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/31337996485276-How-can-I-add-notes-to-a-swap",
+      "file": "articles/31337996485276-how-can-i-add-notes-to-a-swap.md"
+    },
+    {
+      "id": 31337968331548,
+      "title": "How can I add notes to a swap?",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2026-10-26T19:10:58Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/31337968331548-How-can-I-add-notes-to-a-swap",
+      "file": "articles/31337968331548-how-can-i-add-notes-to-a-swap.md"
     },
     {
       "id": 4406888153874,
@@ -464,6 +514,26 @@
       "file": "articles/27253809604508-how-do-i-request-tax-exemption-on-my-sidelineswap-account.md"
     },
     {
+      "id": 31337987186716,
+      "title": "How do I see my order after checking out as a guest?",
+      "section": "Making a purchase",
+      "category": "Buying",
+      "labels": [],
+      "updated_at": "2026-10-26T19:07:49Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/31337987186716-How-do-I-see-my-order-after-checking-out-as-a-guest",
+      "file": "articles/31337987186716-how-do-i-see-my-order-after-checking-out-as-a-guest.md"
+    },
+    {
+      "id": 31337757310108,
+      "title": "How do I send offers automatically when someone favorites my item?",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2026-10-26T18:57:39Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/31337757310108-How-do-I-send-offers-automatically-when-someone-favorites-my-item",
+      "file": "articles/31337757310108-how-do-i-send-offers-automatically-when-someone-favorites-my.md"
+    },
+    {
       "id": 360017807139,
       "title": "How do I update my credit card/payment method?",
       "section": "Troubleshooting my account",
@@ -510,6 +580,26 @@
       "updated_at": "2022-05-18T19:03:59Z",
       "url": "https://help.sidelineswap.com/hc/en-us/articles/4410656215314-How-does-free-and-discounted-shipping-work",
       "file": "articles/4410656215314-how-does-free-and-discounted-shipping-work.md"
+    },
+    {
+      "id": 31337707983516,
+      "title": "How does Offer Autopilot work?",
+      "section": "Seller FAQs",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2026-10-26T18:56:58Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/31337707983516-How-does-Offer-Autopilot-work",
+      "file": "articles/31337707983516-how-does-offer-autopilot-work.md"
+    },
+    {
+      "id": 31337682254748,
+      "title": "How does Offer Autopilot work?",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2026-10-26T18:56:58Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/31337682254748-How-does-Offer-Autopilot-work",
+      "file": "articles/31337682254748-how-does-offer-autopilot-work.md"
     },
     {
       "id": 360010265180,
@@ -1713,7 +1803,7 @@
     },
     {
       "id": 4405754325906,
-      "title": "I am not receiving a pin when I try to log in",
+      "title": "I am not receiving a pin when I try to sign in",
       "section": "Troubleshooting my account",
       "category": "Managing My Account",
       "labels": [
@@ -1728,9 +1818,9 @@
         "did not receive pin",
         "authorize"
       ],
-      "updated_at": "2026-05-07T13:41:24Z",
-      "url": "https://help.sidelineswap.com/hc/en-us/articles/4405754325906-I-am-not-receiving-a-pin-when-I-try-to-log-in",
-      "file": "articles/4405754325906-i-am-not-receiving-a-pin-when-i-try-to-log-in.md"
+      "updated_at": "2026-10-26T18:59:19Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/4405754325906-I-am-not-receiving-a-pin-when-I-try-to-sign-in",
+      "file": "articles/4405754325906-i-am-not-receiving-a-pin-when-i-try-to-sign-in.md"
     },
     {
       "id": 360010356539,
@@ -2800,13 +2890,13 @@
     },
     {
       "id": 360016621320,
-      "title": "Why am I receiving a pin to log in?",
+      "title": "Why am I receiving a pin to sign in?",
       "section": "Troubleshooting my account",
       "category": "Managing My Account",
       "labels": [],
-      "updated_at": "2020-09-23T15:34:16Z",
-      "url": "https://help.sidelineswap.com/hc/en-us/articles/360016621320-Why-am-I-receiving-a-pin-to-log-in",
-      "file": "articles/360016621320-why-am-i-receiving-a-pin-to-log-in.md"
+      "updated_at": "2026-10-26T18:58:57Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/360016621320-Why-am-I-receiving-a-pin-to-sign-in",
+      "file": "articles/360016621320-why-am-i-receiving-a-pin-to-sign-in.md"
     },
     {
       "id": 360010255760,
@@ -2901,6 +2991,16 @@
       "updated_at": "2026-05-07T14:08:27Z",
       "url": "https://help.sidelineswap.com/hc/en-us/articles/27306616690588-Why-is-my-seller-balance-negative-or-different-from-what-I-expected",
       "file": "articles/27306616690588-why-is-my-seller-balance-negative-or-different-from-what-i-e.md"
+    },
+    {
+      "id": 31338053069468,
+      "title": "Why isn't my swap note printing?",
+      "section": "Listing & managing my items",
+      "category": "Selling",
+      "labels": [],
+      "updated_at": "2026-10-26T19:11:55Z",
+      "url": "https://help.sidelineswap.com/hc/en-us/articles/31338053069468-Why-isn-t-my-swap-note-printing",
+      "file": "articles/31338053069468-why-isnt-my-swap-note-printing.md"
     },
     {
       "id": 27253908237468,

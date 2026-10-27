@@ -1,15 +1,15 @@
 ---
 id: 4405754325906
-title: I am not receiving a pin when I try to log in
+title: I am not receiving a pin when I try to sign in
 section: Troubleshooting my account
 section_id: 360003151620
 category: Managing My Account
 labels: [pin, can't log in, not receiving, not receiving pin, never received pin, recognizes, recognizes my device, pin was not sent, did not receive pin, authorize]
-updated_at: "2026-05-07T13:41:24Z"
-url: "https://help.sidelineswap.com/hc/en-us/articles/4405754325906-I-am-not-receiving-a-pin-when-I-try-to-log-in"
+updated_at: "2026-10-26T18:59:19Z"
+url: "https://help.sidelineswap.com/hc/en-us/articles/4405754325906-I-am-not-receiving-a-pin-when-I-try-to-sign-in"
 ---
 
-# I am not receiving a pin when I try to log in
+# I am not receiving a pin when I try to sign in
 
 If you're logging in from an unrecognized device, SidelineSwap may require that you enter a PIN upon login in order to verify your account. If you requested a login PIN but haven't received the email, try the steps below before contacting support.
 
