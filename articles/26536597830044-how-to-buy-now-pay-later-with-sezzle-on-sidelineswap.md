@@ -5,7 +5,7 @@ section: Payment Methods
 section_id: 360003151780
 category: Buying
 labels: []
-updated_at: "2026-09-10T16:06:22Z"
+updated_at: "2026-10-27T18:54:57Z"
 url: "https://help.sidelineswap.com/hc/en-us/articles/26536597830044-How-to-Buy-Now-Pay-Later-with-Sezzle-on-SidelineSwap"
 ---
 
@@ -30,7 +30,8 @@ Sezzle offers flexible payment plans including a pay in 5 option.
 
 **Eligibility & Requirements**
 
-* Sezzle is currently available for customers located in the **US and Canada**.
+Sezzle is currently available for customers located in the **US and Canada**.
+
 * You'll need a valid US or Canadian bank account, debit card, or credit card (prepaid cards are not accepted for your first purchase).
 * Sezzle uses their own approval process, so signing up won't impact your credit score.
 * Your spending limit is determined by Sezzle based on several factors and may increase over time.
@@ -46,3 +47,16 @@ Sezzle offers an optional program called Sezzle Up that reports your payment his
 * For questions about your Sezzle payments or account, visit [Sezzle's Help Center](https://help.sezzle.com) or contact Sezzle directly.
 
 Pay later loans are originated by WebBank or Sezzle. All loans are subject to credit approval. Eligibility criteria apply.
+
+**I see a Sezzle charge, but no order on SidelineSwap**
+
+If your Sezzle checkout didn’t finish, you may see a pending charge from Sezzle even though no order was placed. A pending charge isn’t a payment. If the purchase didn’t go through, Sezzle releases the hold and it drops off your account on its own, usually within a week. You don’t need to do anything.
+
+To check whether your order went through:
+
+* Look for a purchase confirmation email from SidelineSwap with a Swap ID.
+* Check your purchases on SidelineSwap.
+
+If you have a confirmation email or see the purchase in your account, your order is placed. If not, no order was created, and the pending charge will be released.
+
+If you still want the item, you can buy it again. If the charge is still pending after a week, contact [Sezzle’s Help Center](https://help.sezzle.com/ "https://help.sezzle.com").
