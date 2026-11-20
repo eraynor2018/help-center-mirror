@@ -1,6 +1,6 @@
 # SidelineSwap Help Center — Mirror Index
 
-_Auto-generated. 242 published articles. Last synced 2026-11-19 17:13 UTC._
+_Auto-generated. 242 published articles. Last synced 2026-11-20 16:52 UTC._
 
 Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — edit articles there, never here.
 
@@ -99,7 +99,7 @@ Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — ed
 
 | Article | Labels | Updated | File |
 | --- | --- | --- | --- |
-| [Avoiding Scams & Phishing on SidelineSwap](https://help.sidelineswap.com/hc/en-us/articles/5351016248092-Avoiding-Scams-Phishing-on-SidelineSwap) | payment, email, gift, seller account, scammer, fraudulent, scams, legit, fake, vanilla, gift card, activated, activate, scam, fraud, instant, instant payment, receive payment, activity, unlimited, selling activity, razor gold | 2024-12-16 | `articles/5351016248092-avoiding-scams-phishing-on-sidelineswap.md` |
+| [Avoiding Scams & Phishing on SidelineSwap](https://help.sidelineswap.com/hc/en-us/articles/5351016248092-Avoiding-Scams-Phishing-on-SidelineSwap) | payment, email, gift, seller account, scammer, fraudulent, scams, legit, fake, vanilla, gift card, activated, activate, scam, fraud, instant, instant payment, receive payment, activity, unlimited, selling activity, razor gold | 2026-11-19 | `articles/5351016248092-avoiding-scams-phishing-on-sidelineswap.md` |
 | [Giveaway Official Rules](https://help.sidelineswap.com/hc/en-us/articles/4404087179410-Giveaway-Official-Rules) |  | 2021-08-10 | `articles/4404087179410-giveaway-official-rules.md` |
 | [How to Contact SidelineSwap Support](https://help.sidelineswap.com/hc/en-us/articles/360011528159-How-to-Contact-SidelineSwap-Support) |  | 2023-09-28 | `articles/360011528159-how-to-contact-sidelineswap-support.md` |
 | [How to Find My Swap ID](https://help.sidelineswap.com/hc/en-us/articles/360010252420-How-to-Find-My-Swap-ID) |  | 2023-09-14 | `articles/360010252420-how-to-find-my-swap-id.md` |
