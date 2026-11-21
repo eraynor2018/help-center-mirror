@@ -1,6 +1,6 @@
 # SidelineSwap Help Center — Mirror Index
 
-_Auto-generated. 242 published articles. Last synced 2026-11-20 16:52 UTC._
+_Auto-generated. 242 published articles. Last synced 2026-11-21 16:00 UTC._
 
 Read-only mirror of help.sidelineswap.com. Zendesk is the source of truth — edit articles there, never here.
 
